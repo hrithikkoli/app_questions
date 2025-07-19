@@ -1,1437 +1,1541 @@
 {
   "categories": [
     {
+      "id": "general_knowledge",
       "name": "General Knowledge",
+      "description": "Test your general knowledge",
+      "gradientResource": "pink_gradient",
       "questions": [
         {
+          "id": "gk_1",
           "question": "What is the capital of India?",
-          "options": [
-            "Chennai",
-            "Delhi",
-            "Kolkata",
-            "Mumbai"
-          ],
+          "options": ["Chennai", "Delhi", "Kolkata", "Mumbai"],
           "correctAnswer": "Delhi"
         },
         {
+          "id": "gk_2",
           "question": "Who is the President of India (2025)?",
-          "options": [
-            "Kovind",
-            "Murmu",
-            "Gandhi",
-            "Modi"
-          ],
+          "options": ["Kovind", "Murmu", "Gandhi", "Modi"],
           "correctAnswer": "Murmu"
         },
         {
-          "question": "What is the capital of India?",
-          "options": [
-            "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "Delhi"
-          ],
-          "correctAnswer": "Delhi"
-        },
-        {
-          "question": "Who is the President of India (2025)?",
-          "options": [
-            "Kovind",
-            "Gandhi",
-            "Murmu",
-            "Modi"
-          ],
-          "correctAnswer": "Murmu"
-        },
-        {
-          "question": "Who is the President of India (2025)?",
-          "options": [
-            "Modi",
-            "Murmu",
-            "Gandhi",
-            "Kovind"
-          ],
-          "correctAnswer": "Murmu"
-        },
-        {
-          "question": "What is the capital of India?",
-          "options": [
-            "Chennai",
-            "Delhi",
-            "Kolkata",
-            "Mumbai"
-          ],
-          "correctAnswer": "Delhi"
-        },
-        {
+          "id": "gk_3",
           "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Australia",
-            "Asia",
-            "Europe",
-            "Africa"
-          ],
+          "options": ["Australia", "Asia", "Europe", "Africa"],
           "correctAnswer": "Africa"
         },
         {
-          "question": "Who is the President of India (2025)?",
-          "options": [
-            "Gandhi",
-            "Kovind",
-            "Murmu",
-            "Modi"
-          ],
-          "correctAnswer": "Murmu"
+          "id": "gk_4",
+          "question": "What is the largest ocean in the world?",
+          "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+          "correctAnswer": "Pacific"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Europe",
-            "Africa",
-            "Asia",
-            "Australia"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_5",
+          "question": "Which is the longest river in the world?",
+          "options": ["Amazon", "Nile", "Ganges", "Yangtze"],
+          "correctAnswer": "Nile"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Africa",
-            "Europe",
-            "Australia",
-            "Asia"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_6",
+          "question": "How many continents are there?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Australia",
-            "Africa",
-            "Europe",
-            "Asia"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_7",
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "options": ["China", "Japan", "Korea", "Thailand"],
+          "correctAnswer": "Japan"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Asia",
-            "Australia",
-            "Africa",
-            "Europe"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_8",
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correctAnswer": "Vatican City"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Australia",
-            "Asia",
-            "Europe",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_9",
+          "question": "Which is the tallest mountain in the world?",
+          "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+          "correctAnswer": "Mount Everest"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Australia",
-            "Asia",
-            "Europe",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_10",
+          "question": "What is the currency of the United States?",
+          "options": ["Euro", "Pound", "Dollar", "Yen"],
+          "correctAnswer": "Dollar"
         },
         {
-          "question": "What is the capital of India?",
-          "options": [
-            "Delhi",
-            "Kolkata",
-            "Mumbai",
-            "Chennai"
-          ],
-          "correctAnswer": "Delhi"
+          "id": "gk_11",
+          "question": "Which planet is known as the Blue Planet?",
+          "options": ["Neptune", "Earth", "Uranus", "Venus"],
+          "correctAnswer": "Earth"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Europe",
-            "Australia",
-            "Asia",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_12",
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Gold", "Iron", "Diamond", "Platinum"],
+          "correctAnswer": "Diamond"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Asia",
-            "Europe",
-            "Australia",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_13",
+          "question": "Which gas makes up most of Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "correctAnswer": "Nitrogen"
         },
         {
-          "question": "Who is the President of India (2025)?",
-          "options": [
-            "Murmu",
-            "Gandhi",
-            "Kovind",
-            "Modi"
-          ],
-          "correctAnswer": "Murmu"
+          "id": "gk_14",
+          "question": "Who wrote the famous play 'Romeo and Juliet'?",
+          "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+          "correctAnswer": "William Shakespeare"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Europe",
-            "Australia",
-            "Asia",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_15",
+          "question": "What is the largest mammal in the world?",
+          "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+          "correctAnswer": "Blue Whale"
         },
         {
-          "question": "Which continent is the Sahara Desert in?",
-          "options": [
-            "Australia",
-            "Europe",
-            "Asia",
-            "Africa"
-          ],
-          "correctAnswer": "Africa"
+          "id": "gk_16",
+          "question": "Which vitamin is produced when skin is exposed to sunlight?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "correctAnswer": "Vitamin D"
+        },
+        {
+          "id": "gk_17",
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "correctAnswer": "Au"
+        },
+        {
+          "id": "gk_18",
+          "question": "Which organ in the human body produces insulin?",
+          "options": ["Liver", "Kidney", "Heart", "Pancreas"],
+          "correctAnswer": "Pancreas"
+        },
+        {
+          "id": "gk_19",
+          "question": "What is the fastest land animal?",
+          "options": ["Lion", "Tiger", "Cheetah", "Leopard"],
+          "correctAnswer": "Cheetah"
+        },
+        {
+          "id": "gk_20",
+          "question": "Which is the largest bone in the human body?",
+          "options": ["Femur", "Tibia", "Humerus", "Radius"],
+          "correctAnswer": "Femur"
         }
       ]
     },
     {
+      "id": "kids_4_7",
+      "name": "Kids (4–7)",
+      "description": "4–7 years",
+      "ageRange": "4-7",
+      "gradientResource": "purple_gradient",
+      "questions": [
+        {
+          "id": "k47_1",
+          "question": "What sound does a cow make?",
+          "options": ["Woof", "Meow", "Moo", "Roar"],
+          "correctAnswer": "Moo"
+        },
+        {
+          "id": "k47_2",
+          "question": "How many days are in a week?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7"
+        },
+        {
+          "id": "k47_3",
+          "question": "What color do you get when you mix red and yellow?",
+          "options": ["Purple", "Orange", "Green", "Blue"],
+          "correctAnswer": "Orange"
+        },
+        {
+          "id": "k47_4",
+          "question": "Which animal is known as the King of the Jungle?",
+          "options": ["Tiger", "Elephant", "Lion", "Bear"],
+          "correctAnswer": "Lion"
+        },
+        {
+          "id": "k47_5",
+          "question": "How many wheels does a bicycle have?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "2"
+        },
+        {
+          "id": "k47_6",
+          "question": "What do we use to see?",
+          "options": ["Ears", "Eyes", "Nose", "Mouth"],
+          "correctAnswer": "Eyes"
+        },
+        {
+          "id": "k47_7",
+          "question": "Which fruit is yellow and curved?",
+          "options": ["Apple", "Orange", "Banana", "Grape"],
+          "correctAnswer": "Banana"
+        },
+        {
+          "id": "k47_8",
+          "question": "What comes after 9?",
+          "options": ["8", "10", "11", "12"],
+          "correctAnswer": "10"
+        },
+        {
+          "id": "k47_9",
+          "question": "Where do fish live?",
+          "options": ["Trees", "Water", "Sky", "Ground"],
+          "correctAnswer": "Water"
+        },
+        {
+          "id": "k47_10",
+          "question": "What do bees make?",
+          "options": ["Milk", "Honey", "Cheese", "Butter"],
+          "correctAnswer": "Honey"
+        },
+        {
+          "id": "k47_11",
+          "question": "How many legs does a cat have?",
+          "options": ["2", "4", "6", "8"],
+          "correctAnswer": "4"
+        },
+        {
+          "id": "k47_12",
+          "question": "What shape has three sides?",
+          "options": ["Circle", "Square", "Triangle", "Rectangle"],
+          "correctAnswer": "Triangle"
+        },
+        {
+          "id": "k47_13",
+          "question": "Which meal do we eat in the morning?",
+          "options": ["Lunch", "Dinner", "Breakfast", "Snack"],
+          "correctAnswer": "Breakfast"
+        },
+        {
+          "id": "k47_14",
+          "question": "What color is grass?",
+          "options": ["Red", "Blue", "Yellow", "Green"],
+          "correctAnswer": "Green"
+        },
+        {
+          "id": "k47_15",
+          "question": "How many fingers do you have on one hand?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": "5"
+        },
+        {
+          "id": "k47_16",
+          "question": "What do birds use to fly?",
+          "options": ["Legs", "Wings", "Tail", "Beak"],
+          "correctAnswer": "Wings"
+        },
+        {
+          "id": "k47_17",
+          "question": "Which season is the coldest?",
+          "options": ["Summer", "Spring", "Winter", "Autumn"],
+          "correctAnswer": "Winter"
+        },
+        {
+          "id": "k47_18",
+          "question": "What do we wear on our feet?",
+          "options": ["Hat", "Gloves", "Shoes", "Scarf"],
+          "correctAnswer": "Shoes"
+        },
+        {
+          "id": "k47_19",
+          "question": "What sound does a dog make?",
+          "options": ["Meow", "Moo", "Woof", "Roar"],
+          "correctAnswer": "Woof"
+        },
+        {
+          "id": "k47_20",
+          "question": "How many eyes do you have?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "2"
+        }
+      ]
+    },
+    {
+      "id": "kids_8_10",
+      "name": "Kids (8–10)",
+      "description": "8–10 years",
+      "ageRange": "8-10",
+      "gradientResource": "orange_gradient",
+      "questions": [
+        {
+          "id": "k810_1",
+          "question": "How many legs does a spider have?",
+          "options": ["6", "12", "10", "8"],
+          "correctAnswer": "8"
+        },
+        {
+          "id": "k810_2",
+          "question": "What color is the sun?",
+          "options": ["Blue", "Yellow", "Red", "Green"],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "id": "k810_3",
+          "question": "What do bees make?",
+          "options": ["Bread", "Juice", "Honey", "Milk"],
+          "correctAnswer": "Honey"
+        },
+        {
+          "id": "k810_4",
+          "question": "How many sides does a triangle have?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "3"
+        },
+        {
+          "id": "k810_5",
+          "question": "What is 5 + 3?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": "8"
+        },
+        {
+          "id": "k810_6",
+          "question": "Which planet do we live on?",
+          "options": ["Mars", "Venus", "Earth", "Jupiter"],
+          "correctAnswer": "Earth"
+        },
+        {
+          "id": "k810_7",
+          "question": "How many months are in a year?",
+          "options": ["10", "11", "12", "13"],
+          "correctAnswer": "12"
+        },
+        {
+          "id": "k810_8",
+          "question": "What is the opposite of hot?",
+          "options": ["Warm", "Cool", "Cold", "Wet"],
+          "correctAnswer": "Cold"
+        },
+        {
+          "id": "k810_9",
+          "question": "Which season comes after winter?",
+          "options": ["Summer", "Spring", "Autumn", "Fall"],
+          "correctAnswer": "Spring"
+        },
+        {
+          "id": "k810_10",
+          "question": "What do caterpillars turn into?",
+          "options": ["Birds", "Butterflies", "Bees", "Beetles"],
+          "correctAnswer": "Butterflies"
+        },
+        {
+          "id": "k810_11",
+          "question": "What is 10 - 4?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "6"
+        },
+        {
+          "id": "k810_12",
+          "question": "Which animal gives us milk?",
+          "options": ["Pig", "Cow", "Dog", "Cat"],
+          "correctAnswer": "Cow"
+        },
+        {
+          "id": "k810_13",
+          "question": "How many sides does a square have?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "4"
+        },
+        {
+          "id": "k810_14",
+          "question": "What do we call baby cats?",
+          "options": ["Puppies", "Kittens", "Cubs", "Chicks"],
+          "correctAnswer": "Kittens"
+        },
+        {
+          "id": "k810_15",
+          "question": "Which fruit is red and round?",
+          "options": ["Banana", "Orange", "Apple", "Grape"],
+          "correctAnswer": "Apple"
+        },
+        {
+          "id": "k810_16",
+          "question": "What is 2 × 3?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "6"
+        },
+        {
+          "id": "k810_17",
+          "question": "How many hours are in a day?",
+          "options": ["12", "20", "24", "30"],
+          "correctAnswer": "24"
+        },
+        {
+          "id": "k810_18",
+          "question": "What do plants need to grow?",
+          "options": ["Only water", "Only soil", "Water and sunlight", "Only air"],
+          "correctAnswer": "Water and sunlight"
+        },
+        {
+          "id": "k810_19",
+          "question": "Which is the largest animal on land?",
+          "options": ["Tiger", "Lion", "Elephant", "Giraffe"],
+          "correctAnswer": "Elephant"
+        },
+        {
+          "id": "k810_20",
+          "question": "What comes before Thursday?",
+          "options": ["Tuesday", "Wednesday", "Friday", "Monday"],
+          "correctAnswer": "Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "kids_10_12",
+      "name": "Kids (10–12)",
+      "description": "10–12 years",
+      "ageRange": "10-12",
+      "gradientResource": "green_gradient",
+      "questions": [
+        {
+          "id": "k1012_1",
+          "question": "What is 15 × 4?",
+          "options": ["50", "55", "60", "65"],
+          "correctAnswer": "60"
+        },
+        {
+          "id": "k1012_2",
+          "question": "Which is the largest mammal?",
+          "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+          "correctAnswer": "Blue Whale"
+        },
+        {
+          "id": "k1012_3",
+          "question": "How many bones are in an adult human body?",
+          "options": ["196", "206", "216", "226"],
+          "correctAnswer": "206"
+        },
+        {
+          "id": "k1012_4",
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+          "correctAnswer": "Canberra"
+        },
+        {
+          "id": "k1012_5",
+          "question": "Which gas makes up most of Earth's atmosphere?",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+          "correctAnswer": "Nitrogen"
+        },
+        {
+          "id": "k1012_6",
+          "question": "What is the smallest prime number?",
+          "options": ["0", "1", "2", "3"],
+          "correctAnswer": "2"
+        },
+        {
+          "id": "k1012_7",
+          "question": "Which continent is Antarctica?",
+          "options": ["North Pole", "South Pole", "Equator", "Arctic"],
+          "correctAnswer": "South Pole"
+        },
+        {
+          "id": "k1012_8",
+          "question": "What is the hardest natural substance?",
+          "options": ["Gold", "Iron", "Diamond", "Silver"],
+          "correctAnswer": "Diamond"
+        },
+        {
+          "id": "k1012_9",
+          "question": "How many hearts does an octopus have?",
+          "options": ["1", "2", "3", "4"],
+          "correctAnswer": "3"
+        },
+        {
+          "id": "k1012_10",
+          "question": "What is the speed of light?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "correctAnswer": "300,000 km/s"
+        },
+        {
+          "id": "k1012_11",
+          "question": "What is 144 ÷ 12?",
+          "options": ["10", "11", "12", "13"],
+          "correctAnswer": "12"
+        },
+        {
+          "id": "k1012_12",
+          "question": "Which organ pumps blood in the human body?",
+          "options": ["Brain", "Liver", "Heart", "Kidney"],
+          "correctAnswer": "Heart"
+        },
+        {
+          "id": "k1012_13",
+          "question": "What is the longest river in the world?",
+          "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+          "correctAnswer": "Nile"
+        },
+        {
+          "id": "k1012_14",
+          "question": "How many sides does a hexagon have?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "6"
+        },
+        {
+          "id": "k1012_15",
+          "question": "What is the chemical formula for water?",
+          "options": ["CO2", "H2O", "NaCl", "O2"],
+          "correctAnswer": "H2O"
+        },
+        {
+          "id": "k1012_16",
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": "Mars"
+        },
+        {
+          "id": "k1012_17",
+          "question": "What is the square root of 64?",
+          "options": ["6", "7", "8", "9"],
+          "correctAnswer": "8"
+        },
+        {
+          "id": "k1012_18",
+          "question": "Which animal is known for its black and white stripes?",
+          "options": ["Horse", "Zebra", "Cow", "Tiger"],
+          "correctAnswer": "Zebra"
+        },
+        {
+          "id": "k1012_19",
+          "question": "What is the largest organ in the human body?",
+          "options": ["Heart", "Brain", "Liver", "Skin"],
+          "correctAnswer": "Skin"
+        },
+        {
+          "id": "k1012_20",
+          "question": "How many minutes are in an hour?",
+          "options": ["50", "55", "60", "65"],
+          "correctAnswer": "60"
+        }
+      ]
+    },
+    {
+      "id": "bollywood",
       "name": "Bollywood",
+      "description": "Test your Bollywood knowledge",
+      "gradientResource": "pink_gradient",
       "questions": [
         {
+          "id": "bw_1",
           "question": "Who played the lead in 'Shershaah'?",
-          "options": [
-            "Ranveer Singh",
-            "Varun Dhawan",
-            "Tiger Shroff",
-            "Sidharth Malhotra"
-          ],
+          "options": ["Ranveer Singh", "Varun Dhawan", "Tiger Shroff", "Sidharth Malhotra"],
           "correctAnswer": "Sidharth Malhotra"
         },
         {
+          "id": "bw_2",
           "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Imtiaz Ali",
-            "Anurag Kashyap",
-            "Karan Johar",
-            "Rajkumar Hirani"
-          ],
+          "options": ["Imtiaz Ali", "Anurag Kashyap", "Karan Johar", "Rajkumar Hirani"],
           "correctAnswer": "Rajkumar Hirani"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Rajkumar Hirani",
-            "Anurag Kashyap",
-            "Karan Johar",
-            "Imtiaz Ali"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
-        },
-        {
+          "id": "bw_3",
           "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Aashiqui 2",
-            "Rockstar",
-            "Barfi",
-            "Kabir Singh"
-          ],
+          "options": ["Aashiqui 2", "Rockstar", "Barfi", "Kabir Singh"],
           "correctAnswer": "Aashiqui 2"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Karan Johar",
-            "Imtiaz Ali",
-            "Rajkumar Hirani",
-            "Anurag Kashyap"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_4",
+          "question": "Who played Geet in 'Jab We Met'?",
+          "options": ["Deepika Padukone", "Kareena Kapoor", "Priyanka Chopra", "Alia Bhatt"],
+          "correctAnswer": "Kareena Kapoor"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Rajkumar Hirani",
-            "Imtiaz Ali",
-            "Anurag Kashyap",
-            "Karan Johar"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_5",
+          "question": "Which film won the Oscar nomination for India?",
+          "options": ["Lagaan", "RRR", "Slumdog Millionaire", "Life of Pi"],
+          "correctAnswer": "Lagaan"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Anurag Kashyap",
-            "Rajkumar Hirani",
-            "Karan Johar",
-            "Imtiaz Ali"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_6",
+          "question": "Who is known as the 'King of Bollywood'?",
+          "options": ["Aamir Khan", "Salman Khan", "Shah Rukh Khan", "Akshay Kumar"],
+          "correctAnswer": "Shah Rukh Khan"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Rajkumar Hirani",
-            "Imtiaz Ali",
-            "Karan Johar",
-            "Anurag Kashyap"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_7",
+          "question": "In which movie did Amitabh Bachchan play the character 'Vijay'?",
+          "options": ["Sholay", "Deewaar", "Don", "Zanjeer"],
+          "correctAnswer": "Deewaar"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Rockstar",
-            "Barfi",
-            "Kabir Singh",
-            "Aashiqui 2"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_8",
+          "question": "Who composed music for 'Dilwale Dulhania Le Jayenge'?",
+          "options": ["A.R. Rahman", "Jatin-Lalit", "Shankar-Ehsaan-Loy", "Vishal-Shekhar"],
+          "correctAnswer": "Jatin-Lalit"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Rockstar",
-            "Barfi",
-            "Aashiqui 2",
-            "Kabir Singh"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_9",
+          "question": "Which actress won National Award for 'Queen'?",
+          "options": ["Kangana Ranaut", "Deepika Padukone", "Priyanka Chopra", "Vidya Balan"],
+          "correctAnswer": "Kangana Ranaut"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Kabir Singh",
-            "Rockstar",
-            "Barfi",
-            "Aashiqui 2"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_10",
+          "question": "Who directed 'Mughal-E-Azam'?",
+          "options": ["Mehboob Khan", "K. Asif", "Guru Dutt", "Raj Kapoor"],
+          "correctAnswer": "K. Asif"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Kabir Singh",
-            "Rockstar",
-            "Barfi",
-            "Aashiqui 2"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_11",
+          "question": "Which movie features the famous dialogue 'Mogambo khush hua'?",
+          "options": ["Mr. India", "Tezaab", "Beta", "Lamhe"],
+          "correctAnswer": "Mr. India"
         },
         {
-          "question": "Who played the lead in 'Shershaah'?",
-          "options": [
-            "Sidharth Malhotra",
-            "Varun Dhawan",
-            "Tiger Shroff",
-            "Ranveer Singh"
-          ],
-          "correctAnswer": "Sidharth Malhotra"
+          "id": "bw_12",
+          "question": "Who played the role of Circuit in 'Munna Bhai MBBS'?",
+          "options": ["Boman Irani", "Arshad Warsi", "Sunil Dutt", "Jimmy Shergill"],
+          "correctAnswer": "Arshad Warsi"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Anurag Kashyap",
-            "Rajkumar Hirani",
-            "Karan Johar",
-            "Imtiaz Ali"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_13",
+          "question": "Which actress is known as the 'Dream Girl'?",
+          "options": ["Madhuri Dixit", "Sridevi", "Hema Malini", "Rekha"],
+          "correctAnswer": "Hema Malini"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Aashiqui 2",
-            "Kabir Singh",
-            "Barfi",
-            "Rockstar"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_14",
+          "question": "In which year was 'Sholay' released?",
+          "options": ["1973", "1975", "1977", "1979"],
+          "correctAnswer": "1975"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Kabir Singh",
-            "Aashiqui 2",
-            "Barfi",
-            "Rockstar"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_15",
+          "question": "Who directed 'Dangal'?",
+          "options": ["Nitesh Tiwari", "Anurag Basu", "Imtiaz Ali", "Zoya Akhtar"],
+          "correctAnswer": "Nitesh Tiwari"
         },
         {
-          "question": "Who directed '3 Idiots'?",
-          "options": [
-            "Karan Johar",
-            "Rajkumar Hirani",
-            "Imtiaz Ali",
-            "Anurag Kashyap"
-          ],
-          "correctAnswer": "Rajkumar Hirani"
+          "id": "bw_16",
+          "question": "Which movie won the National Film Award for Best Feature Film in 2019?",
+          "options": ["Gully Boy", "Article 15", "Andhadhun", "Badhaai Ho"],
+          "correctAnswer": "Gully Boy"
         },
         {
-          "question": "Who played the lead in 'Shershaah'?",
-          "options": [
-            "Tiger Shroff",
-            "Sidharth Malhotra",
-            "Ranveer Singh",
-            "Varun Dhawan"
-          ],
-          "correctAnswer": "Sidharth Malhotra"
+          "id": "bw_17",
+          "question": "Who sang the song 'Kal Ho Naa Ho'?",
+          "options": ["Kumar Sanu", "Udit Narayan", "Sonu Nigam", "Shaan"],
+          "correctAnswer": "Sonu Nigam"
         },
         {
-          "question": "Who played the lead in 'Shershaah'?",
-          "options": [
-            "Tiger Shroff",
-            "Varun Dhawan",
-            "Ranveer Singh",
-            "Sidharth Malhotra"
-          ],
-          "correctAnswer": "Sidharth Malhotra"
+          "id": "bw_18",
+          "question": "Which actress made her debut with 'Student of the Year'?",
+          "options": ["Shraddha Kapoor", "Alia Bhatt", "Parineeti Chopra", "Ananya Panday"],
+          "correctAnswer": "Alia Bhatt"
         },
         {
-          "question": "Which movie is known for the song 'Tum Hi Ho'?",
-          "options": [
-            "Aashiqui 2",
-            "Rockstar",
-            "Kabir Singh",
-            "Barfi"
-          ],
-          "correctAnswer": "Aashiqui 2"
+          "id": "bw_19",
+          "question": "Who played the villain in 'Dhoom 2'?",
+          "options": ["John Abraham", "Hrithik Roshan", "Abhishek Bachchan", "Uday Chopra"],
+          "correctAnswer": "Hrithik Roshan"
+        },
+        {
+          "id": "bw_20",
+          "question": "Which movie features the song 'Chaiyya Chaiyya'?",
+          "options": ["Dil Se", "Taal", "Rang De Basanti", "Swades"],
+          "correctAnswer": "Dil Se"
         }
       ]
     },
     {
+      "id": "science",
       "name": "Science",
+      "description": "Explore the world of science",
+      "gradientResource": "blue_gradient",
       "questions": [
         {
+          "id": "sci_1",
           "question": "Which gas do plants absorb?",
-          "options": [
-            "Carbon Dioxide",
-            "Nitrogen",
-            "Oxygen",
-            "Hydrogen"
-          ],
+          "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
           "correctAnswer": "Carbon Dioxide"
         },
         {
+          "id": "sci_2",
           "question": "What planet is known as the Red Planet?",
-          "options": [
-            "Venus",
-            "Earth",
-            "Jupiter",
-            "Mars"
-          ],
+          "options": ["Venus", "Earth", "Jupiter", "Mars"],
           "correctAnswer": "Mars"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Nitrogen",
-            "Hydrogen",
-            "Carbon Dioxide",
-            "Oxygen"
-          ],
-          "correctAnswer": "Carbon Dioxide"
-        },
-        {
-          "question": "What planet is known as the Red Planet?",
-          "options": [
-            "Venus",
-            "Earth",
-            "Mars",
-            "Jupiter"
-          ],
-          "correctAnswer": "Mars"
-        },
-        {
+          "id": "sci_3",
           "question": "H2O is the chemical formula of?",
-          "options": [
-            "Hydrogen",
-            "Oxygen",
-            "Water",
-            "Salt"
-          ],
+          "options": ["Hydrogen", "Oxygen", "Water", "Salt"],
           "correctAnswer": "Water"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Oxygen",
-            "Hydrogen",
-            "Carbon Dioxide",
-            "Nitrogen"
-          ],
-          "correctAnswer": "Carbon Dioxide"
+          "id": "sci_4",
+          "question": "What is the center of an atom called?",
+          "options": ["Proton", "Electron", "Nucleus", "Neutron"],
+          "correctAnswer": "Nucleus"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Oxygen",
-            "Nitrogen",
-            "Hydrogen",
-            "Carbon Dioxide"
-          ],
-          "correctAnswer": "Carbon Dioxide"
+          "id": "sci_5",
+          "question": "Which organ pumps blood in the human body?",
+          "options": ["Liver", "Kidney", "Heart", "Lungs"],
+          "correctAnswer": "Heart"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Salt",
-            "Oxygen",
-            "Hydrogen",
-            "Water"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_6",
+          "question": "What is the force that keeps us on Earth?",
+          "options": ["Magnetism", "Gravity", "Friction", "Pressure"],
+          "correctAnswer": "Gravity"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Hydrogen",
-            "Water",
-            "Oxygen",
-            "Salt"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_7",
+          "question": "Which scientist developed the theory of relativity?",
+          "options": ["Newton", "Einstein", "Darwin", "Galileo"],
+          "correctAnswer": "Einstein"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Water",
-            "Oxygen",
-            "Salt",
-            "Hydrogen"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_8",
+          "question": "What is the largest organ in the human body?",
+          "options": ["Heart", "Brain", "Liver", "Skin"],
+          "correctAnswer": "Skin"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Oxygen",
-            "Nitrogen",
-            "Carbon Dioxide",
-            "Hydrogen"
-          ],
-          "correctAnswer": "Carbon Dioxide"
+          "id": "sci_9",
+          "question": "Which element has the chemical symbol 'O'?",
+          "options": ["Gold", "Oxygen", "Silver", "Iron"],
+          "correctAnswer": "Oxygen"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Water",
-            "Salt",
-            "Hydrogen",
-            "Oxygen"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_10",
+          "question": "How many chambers does a human heart have?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "4"
         },
         {
-          "question": "What planet is known as the Red Planet?",
-          "options": [
-            "Earth",
-            "Venus",
-            "Mars",
-            "Jupiter"
-          ],
-          "correctAnswer": "Mars"
+          "id": "sci_11",
+          "question": "What is the boiling point of water?",
+          "options": ["90°C", "100°C", "110°C", "120°C"],
+          "correctAnswer": "100°C"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Hydrogen",
-            "Oxygen",
-            "Salt",
-            "Water"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_12",
+          "question": "Which planet is closest to the Sun?",
+          "options": ["Venus", "Mercury", "Earth", "Mars"],
+          "correctAnswer": "Mercury"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Hydrogen",
-            "Salt",
-            "Oxygen",
-            "Water"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_13",
+          "question": "What does DNA stand for?",
+          "options": ["Deoxyribonucleic Acid", "Dynamic Nuclear Acid", "Double Nucleic Acid", "Direct Nuclear Acid"],
+          "correctAnswer": "Deoxyribonucleic Acid"
         },
         {
-          "question": "H2O is the chemical formula of?",
-          "options": [
-            "Oxygen",
-            "Hydrogen",
-            "Water",
-            "Salt"
-          ],
-          "correctAnswer": "Water"
+          "id": "sci_14",
+          "question": "Which gas is most abundant in Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "correctAnswer": "Nitrogen"
         },
         {
-          "question": "What planet is known as the Red Planet?",
-          "options": [
-            "Mars",
-            "Jupiter",
-            "Venus",
-            "Earth"
-          ],
-          "correctAnswer": "Mars"
+          "id": "sci_15",
+          "question": "What is the chemical symbol for Iron?",
+          "options": ["Ir", "Fe", "In", "I"],
+          "correctAnswer": "Fe"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Oxygen",
-            "Hydrogen",
-            "Carbon Dioxide",
-            "Nitrogen"
-          ],
-          "correctAnswer": "Carbon Dioxide"
+          "id": "sci_16",
+          "question": "How many bones are in an adult human body?",
+          "options": ["196", "206", "216", "226"],
+          "correctAnswer": "206"
         },
         {
-          "question": "Which gas do plants absorb?",
-          "options": [
-            "Carbon Dioxide",
-            "Oxygen",
-            "Hydrogen",
-            "Nitrogen"
-          ],
-          "correctAnswer": "Carbon Dioxide"
+          "id": "sci_17",
+          "question": "What type of animal is a Komodo dragon?",
+          "options": ["Snake", "Lizard", "Crocodile", "Turtle"],
+          "correctAnswer": "Lizard"
         },
         {
-          "question": "What planet is known as the Red Planet?",
-          "options": [
-            "Jupiter",
-            "Earth",
-            "Mars",
-            "Venus"
-          ],
-          "correctAnswer": "Mars"
+          "id": "sci_18",
+          "question": "Which vitamin is known as ascorbic acid?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "correctAnswer": "Vitamin C"
+        },
+        {
+          "id": "sci_19",
+          "question": "What is the powerhouse of the cell?",
+          "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+          "correctAnswer": "Mitochondria"
+        },
+        {
+          "id": "sci_20",
+          "question": "Which blood type is known as the universal donor?",
+          "options": ["A", "B", "AB", "O"],
+          "correctAnswer": "O"
         }
       ]
     },
     {
-      "name": "Kids (8\u201310)",
-      "questions": [
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "6",
-            "12",
-            "10",
-            "8"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Blue",
-            "Yellow",
-            "Red",
-            "Green"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Red",
-            "Blue",
-            "Green",
-            "Yellow"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "What do bees make?",
-          "options": [
-            "Bread",
-            "Juice",
-            "Honey",
-            "Milk"
-          ],
-          "correctAnswer": "Honey"
-        },
-        {
-          "question": "What do bees make?",
-          "options": [
-            "Honey",
-            "Bread",
-            "Milk",
-            "Juice"
-          ],
-          "correctAnswer": "Honey"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "10",
-            "8",
-            "6",
-            "12"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Yellow",
-            "Red",
-            "Blue",
-            "Green"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "12",
-            "6",
-            "8",
-            "10"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Green",
-            "Blue",
-            "Yellow",
-            "Red"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "6",
-            "10",
-            "8",
-            "12"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Yellow",
-            "Green",
-            "Red",
-            "Blue"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Green",
-            "Blue",
-            "Red",
-            "Yellow"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "10",
-            "6",
-            "8",
-            "12"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "6",
-            "12",
-            "10",
-            "8"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "What do bees make?",
-          "options": [
-            "Juice",
-            "Milk",
-            "Bread",
-            "Honey"
-          ],
-          "correctAnswer": "Honey"
-        },
-        {
-          "question": "What do bees make?",
-          "options": [
-            "Juice",
-            "Milk",
-            "Bread",
-            "Honey"
-          ],
-          "correctAnswer": "Honey"
-        },
-        {
-          "question": "What color is the sun?",
-          "options": [
-            "Yellow",
-            "Red",
-            "Blue",
-            "Green"
-          ],
-          "correctAnswer": "Yellow"
-        },
-        {
-          "question": "What do bees make?",
-          "options": [
-            "Honey",
-            "Bread",
-            "Milk",
-            "Juice"
-          ],
-          "correctAnswer": "Honey"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "8",
-            "12",
-            "6",
-            "10"
-          ],
-          "correctAnswer": "8"
-        },
-        {
-          "question": "How many legs does a spider have?",
-          "options": [
-            "6",
-            "8",
-            "10",
-            "12"
-          ],
-          "correctAnswer": "8"
-        }
-      ]
-    },
-    {
+      "id": "state",
       "name": "Indian States",
+      "description": "Learn about Indian states",
+      "gradientResource": "green_gradient",
       "questions": [
         {
+          "id": "state_1",
           "question": "Which state is famous for Biryani?",
-          "options": [
-            "Kerala",
-            "Goa",
-            "Hyderabad",
-            "Punjab"
-          ],
-          "correctAnswer": "Hyderabad"
+          "options": ["Kerala", "Goa", "Telangana", "Punjab"],
+          "correctAnswer": "Telangana"
         },
         {
-          "question": "Which state is famous for Biryani?",
-          "options": [
-            "Goa",
-            "Hyderabad",
-            "Kerala",
-            "Punjab"
-          ],
-          "correctAnswer": "Hyderabad"
-        },
-        {
+          "id": "state_2",
           "question": "Where is Jaipur located?",
-          "options": [
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Gujarat"
-          ],
+          "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Gujarat"],
           "correctAnswer": "Rajasthan"
         },
         {
+          "id": "state_3",
           "question": "Capital of Maharashtra?",
-          "options": [
-            "Mumbai",
-            "Pune",
-            "Nashik",
-            "Nagpur"
-          ],
+          "options": ["Mumbai", "Pune", "Nashik", "Nagpur"],
           "correctAnswer": "Mumbai"
         },
         {
-          "question": "Capital of Maharashtra?",
-          "options": [
-            "Nashik",
-            "Nagpur",
-            "Pune",
-            "Mumbai"
-          ],
-          "correctAnswer": "Mumbai"
+          "id": "state_4",
+          "question": "Which state is known as 'God's Own Country'?",
+          "options": ["Goa", "Kerala", "Karnataka", "Tamil Nadu"],
+          "correctAnswer": "Kerala"
         },
         {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Uttar Pradesh",
-            "Gujarat",
-            "Madhya Pradesh",
-            "Rajasthan"
-          ],
+          "id": "state_5",
+          "question": "In which state is the Taj Mahal located?",
+          "options": ["Delhi", "Rajasthan", "Uttar Pradesh", "Madhya Pradesh"],
+          "correctAnswer": "Uttar Pradesh"
+        },
+        {
+          "id": "state_6",
+          "question": "Which state has the longest coastline?",
+          "options": ["Tamil Nadu", "Kerala", "Gujarat", "Andhra Pradesh"],
+          "correctAnswer": "Gujarat"
+        },
+        {
+          "id": "state_7",
+          "question": "Capital of Punjab?",
+          "options": ["Amritsar", "Ludhiana", "Chandigarh", "Jalandhar"],
+          "correctAnswer": "Chandigarh"
+        },
+        {
+          "id": "state_8",
+          "question": "Which state is known for tea gardens?",
+          "options": ["Kerala", "Karnataka", "Assam", "Tamil Nadu"],
+          "correctAnswer": "Assam"
+        },
+        {
+          "id": "state_9",
+          "question": "Where is the Golden Temple located?",
+          "options": ["Delhi", "Chandigarh", "Amritsar", "Ludhiana"],
+          "correctAnswer": "Amritsar"
+        },
+        {
+          "id": "state_10",
+          "question": "Which is the largest state by area?",
+          "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Maharashtra"],
           "correctAnswer": "Rajasthan"
         },
         {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Uttar Pradesh",
-            "Madhya Pradesh",
-            "Gujarat",
-            "Rajasthan"
-          ],
-          "correctAnswer": "Rajasthan"
+          "id": "state_11",
+          "question": "Capital of West Bengal?",
+          "options": ["Howrah", "Durgapur", "Kolkata", "Siliguri"],
+          "correctAnswer": "Kolkata"
         },
         {
-          "question": "Capital of Maharashtra?",
-          "options": [
-            "Pune",
-            "Nagpur",
-            "Mumbai",
-            "Nashik"
-          ],
-          "correctAnswer": "Mumbai"
+          "id": "state_12",
+          "question": "Which state is famous for Kathakali dance?",
+          "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+          "correctAnswer": "Kerala"
         },
         {
-          "question": "Capital of Maharashtra?",
-          "options": [
-            "Mumbai",
-            "Pune",
-            "Nagpur",
-            "Nashik"
-          ],
-          "correctAnswer": "Mumbai"
+          "id": "state_13",
+          "question": "In which state is Gir National Park?",
+          "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"],
+          "correctAnswer": "Gujarat"
         },
         {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Rajasthan",
-            "Madhya Pradesh",
-            "Uttar Pradesh",
-            "Gujarat"
-          ],
-          "correctAnswer": "Rajasthan"
+          "id": "state_14",
+          "question": "Capital of Karnataka?",
+          "options": ["Mysore", "Bangalore", "Mangalore", "Hubli"],
+          "correctAnswer": "Bangalore"
         },
         {
-          "question": "Which state is famous for Biryani?",
-          "options": [
-            "Kerala",
-            "Punjab",
-            "Hyderabad",
-            "Goa"
-          ],
-          "correctAnswer": "Hyderabad"
+          "id": "state_15",
+          "question": "Which state is known as the 'Land of Five Rivers'?",
+          "options": ["Haryana", "Punjab", "Himachal Pradesh", "Uttar Pradesh"],
+          "correctAnswer": "Punjab"
         },
         {
-          "question": "Capital of Maharashtra?",
-          "options": [
-            "Mumbai",
-            "Nashik",
-            "Pune",
-            "Nagpur"
-          ],
-          "correctAnswer": "Mumbai"
+          "id": "state_16",
+          "question": "Where is the Sun Temple of Konark?",
+          "options": ["West Bengal", "Odisha", "Jharkhand", "Bihar"],
+          "correctAnswer": "Odisha"
         },
         {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Gujarat"
-          ],
-          "correctAnswer": "Rajasthan"
+          "id": "state_17",
+          "question": "Capital of Tamil Nadu?",
+          "options": ["Coimbatore", "Madurai", "Chennai", "Salem"],
+          "correctAnswer": "Chennai"
         },
         {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Uttar Pradesh",
-            "Gujarat",
-            "Rajasthan",
-            "Madhya Pradesh"
-          ],
-          "correctAnswer": "Rajasthan"
+          "id": "state_18",
+          "question": "Which state is famous for Rogan Josh?",
+          "options": ["Punjab", "Himachal Pradesh", "Kashmir", "Haryana"],
+          "correctAnswer": "Kashmir"
         },
         {
-          "question": "Which state is famous for Biryani?",
-          "options": [
-            "Kerala",
-            "Punjab",
-            "Hyderabad",
-            "Goa"
-          ],
-          "correctAnswer": "Hyderabad"
+          "id": "state_19",
+          "question": "In which state is Hampi located?",
+          "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Kerala"],
+          "correctAnswer": "Karnataka"
         },
         {
-          "question": "Which state is famous for Biryani?",
-          "options": [
-            "Goa",
-            "Punjab",
-            "Kerala",
-            "Hyderabad"
-          ],
-          "correctAnswer": "Hyderabad"
-        },
-        {
-          "question": "Which state is famous for Biryani?",
-          "options": [
-            "Goa",
-            "Kerala",
-            "Punjab",
-            "Hyderabad"
-          ],
-          "correctAnswer": "Hyderabad"
-        },
-        {
-          "question": "Capital of Maharashtra?",
-          "options": [
-            "Nashik",
-            "Pune",
-            "Mumbai",
-            "Nagpur"
-          ],
-          "correctAnswer": "Mumbai"
-        },
-        {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Uttar Pradesh",
-            "Madhya Pradesh",
-            "Gujarat",
-            "Rajasthan"
-          ],
-          "correctAnswer": "Rajasthan"
-        },
-        {
-          "question": "Where is Jaipur located?",
-          "options": [
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Gujarat",
-            "Uttar Pradesh"
-          ],
-          "correctAnswer": "Rajasthan"
+          "id": "state_20",
+          "question": "Which state has the smallest area?",
+          "options": ["Sikkim", "Tripura", "Goa", "Manipur"],
+          "correctAnswer": "Goa"
         }
       ]
     },
     {
+      "id": "space",
       "name": "Space",
+      "description": "Explore the universe",
+      "gradientResource": "purple_gradient",
       "questions": [
         {
+          "id": "space_1",
           "question": "Which planet has rings?",
-          "options": [
-            "Venus",
-            "Earth",
-            "Saturn",
-            "Mars"
-          ],
+          "options": ["Venus", "Earth", "Saturn", "Mars"],
           "correctAnswer": "Saturn"
         },
         {
+          "id": "space_2",
           "question": "Which is the largest planet?",
-          "options": [
-            "Saturn",
-            "Mars",
-            "Jupiter",
-            "Uranus"
-          ],
+          "options": ["Saturn", "Mars", "Jupiter", "Uranus"],
           "correctAnswer": "Jupiter"
         },
         {
+          "id": "space_3",
           "question": "What is Earth's only natural satellite?",
-          "options": [
-            "Asteroid",
-            "Moon",
-            "Sun",
-            "Comet"
-          ],
+          "options": ["Asteroid", "Moon", "Sun", "Comet"],
           "correctAnswer": "Moon"
         },
         {
-          "question": "What is Earth's only natural satellite?",
-          "options": [
-            "Asteroid",
-            "Moon",
-            "Comet",
-            "Sun"
-          ],
-          "correctAnswer": "Moon"
+          "id": "space_4",
+          "question": "How many planets are in our solar system?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": "8"
         },
         {
-          "question": "What is Earth's only natural satellite?",
-          "options": [
-            "Moon",
-            "Asteroid",
-            "Sun",
-            "Comet"
-          ],
-          "correctAnswer": "Moon"
+          "id": "space_5",
+          "question": "Which planet is closest to the Sun?",
+          "options": ["Venus", "Mercury", "Earth", "Mars"],
+          "correctAnswer": "Mercury"
         },
         {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Uranus",
-            "Saturn",
-            "Jupiter",
-            "Mars"
-          ],
-          "correctAnswer": "Jupiter"
+          "id": "space_6",
+          "question": "What is the name of our galaxy?",
+          "options": ["Andromeda", "Milky Way", "Whirlpool", "Spiral"],
+          "correctAnswer": "Milky Way"
         },
         {
-          "question": "Which planet has rings?",
-          "options": [
-            "Earth",
-            "Saturn",
-            "Mars",
-            "Venus"
-          ],
+          "id": "space_7",
+          "question": "Which planet is known as the Morning Star?",
+          "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+          "correctAnswer": "Venus"
+        },
+        {
+          "id": "space_8",
+          "question": "Who was the first person to walk on the Moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Alan Shepard"],
+          "correctAnswer": "Neil Armstrong"
+        },
+        {
+          "id": "space_9",
+          "question": "Which is the hottest planet in our solar system?",
+          "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+          "correctAnswer": "Venus"
+        },
+        {
+          "id": "space_10",
+          "question": "What do you call a group of stars that form a pattern?",
+          "options": ["Galaxy", "Constellation", "Nebula", "Cluster"],
+          "correctAnswer": "Constellation"
+        },
+        {
+          "id": "space_11",
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": "Mars"
+        },
+        {
+          "id": "space_12",
+          "question": "What is the largest moon of Jupiter?",
+          "options": ["Europa", "Io", "Ganymede", "Callisto"],
+          "correctAnswer": "Ganymede"
+        },
+        {
+          "id": "space_13",
+          "question": "How long does it take for Earth to orbit the Sun?",
+          "options": ["365 days", "366 days", "364 days", "360 days"],
+          "correctAnswer": "365 days"
+        },
+        {
+          "id": "space_14",
+          "question": "Which planet has the most moons?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
           "correctAnswer": "Saturn"
         },
         {
-          "question": "Which planet has rings?",
-          "options": [
-            "Venus",
-            "Earth",
-            "Saturn",
-            "Mars"
-          ],
-          "correctAnswer": "Saturn"
+          "id": "space_15",
+          "question": "What is the closest star to Earth?",
+          "options": ["Alpha Centauri", "Sirius", "Sun", "Proxima Centauri"],
+          "correctAnswer": "Sun"
         },
         {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Mars",
-            "Saturn",
-            "Uranus",
-            "Jupiter"
-          ],
+          "id": "space_16",
+          "question": "Which space agency sent humans to the Moon?",
+          "options": ["ESA", "NASA", "ISRO", "Roscosmos"],
+          "correctAnswer": "NASA"
+        },
+        {
+          "id": "space_17",
+          "question": "What is the coldest planet in our solar system?",
+          "options": ["Neptune", "Uranus", "Pluto", "Saturn"],
+          "correctAnswer": "Uranus"
+        },
+        {
+          "id": "space_18",
+          "question": "How many Earth days does it take for the Moon to orbit Earth?",
+          "options": ["27", "28", "29", "30"],
+          "correctAnswer": "27"
+        },
+        {
+          "id": "space_19",
+          "question": "Which planet has the Great Red Spot?",
+          "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
           "correctAnswer": "Jupiter"
         },
         {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Uranus",
-            "Mars",
-            "Saturn",
-            "Jupiter"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which planet has rings?",
-          "options": [
-            "Earth",
-            "Mars",
-            "Saturn",
-            "Venus"
-          ],
-          "correctAnswer": "Saturn"
-        },
-        {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Saturn",
-            "Mars",
-            "Uranus",
-            "Jupiter"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which planet has rings?",
-          "options": [
-            "Mars",
-            "Earth",
-            "Saturn",
-            "Venus"
-          ],
-          "correctAnswer": "Saturn"
-        },
-        {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Uranus",
-            "Saturn",
-            "Mars",
-            "Jupiter"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which planet has rings?",
-          "options": [
-            "Venus",
-            "Mars",
-            "Saturn",
-            "Earth"
-          ],
-          "correctAnswer": "Saturn"
-        },
-        {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Mars",
-            "Jupiter",
-            "Uranus",
-            "Saturn"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Jupiter",
-            "Uranus",
-            "Mars",
-            "Saturn"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which is the largest planet?",
-          "options": [
-            "Jupiter",
-            "Mars",
-            "Uranus",
-            "Saturn"
-          ],
-          "correctAnswer": "Jupiter"
-        },
-        {
-          "question": "Which planet has rings?",
-          "options": [
-            "Mars",
-            "Venus",
-            "Saturn",
-            "Earth"
-          ],
-          "correctAnswer": "Saturn"
-        },
-        {
-          "question": "What is Earth's only natural satellite?",
-          "options": [
-            "Comet",
-            "Asteroid",
-            "Sun",
-            "Moon"
-          ],
-          "correctAnswer": "Moon"
+          "id": "space_20",
+          "question": "What is the name of the first artificial satellite?",
+          "options": ["Apollo", "Voyager", "Sputnik", "Explorer"],
+          "correctAnswer": "Sputnik"
         }
       ]
     },
     {
+      "id": "history",
       "name": "History",
+      "description": "Journey through time",
+      "gradientResource": "orange_gradient",
       "questions": [
         {
+          "id": "hist_1",
           "question": "In which year did India get independence?",
-          "options": [
-            "1950",
-            "1945",
-            "1948",
-            "1947"
-          ],
+          "options": ["1950", "1945", "1948", "1947"],
           "correctAnswer": "1947"
         },
         {
+          "id": "hist_2",
           "question": "Who discovered America?",
-          "options": [
-            "Einstein",
-            "Columbus",
-            "Newton",
-            "Lincoln"
-          ],
+          "options": ["Einstein", "Columbus", "Newton", "Lincoln"],
           "correctAnswer": "Columbus"
         },
         {
-          "question": "Who discovered America?",
-          "options": [
-            "Columbus",
-            "Newton",
-            "Einstein",
-            "Lincoln"
-          ],
-          "correctAnswer": "Columbus"
-        },
-        {
+          "id": "hist_3",
           "question": "Who was the first Prime Minister of India?",
-          "options": [
-            "Nehru",
-            "Modi",
-            "Patel",
-            "Gandhi"
-          ],
+          "options": ["Nehru", "Modi", "Patel", "Gandhi"],
           "correctAnswer": "Nehru"
         },
         {
-          "question": "Who discovered America?",
-          "options": [
-            "Einstein",
-            "Lincoln",
-            "Columbus",
-            "Newton"
-          ],
-          "correctAnswer": "Columbus"
+          "id": "hist_4",
+          "question": "When did World War II end?",
+          "options": ["1944", "1945", "1946", "1947"],
+          "correctAnswer": "1945"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1948",
-            "1947",
-            "1950",
-            "1945"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_5",
+          "question": "Who built the Taj Mahal?",
+          "options": ["Akbar", "Shah Jahan", "Humayun", "Aurangzeb"],
+          "correctAnswer": "Shah Jahan"
         },
         {
-          "question": "Who was the first Prime Minister of India?",
-          "options": [
-            "Modi",
-            "Gandhi",
-            "Patel",
-            "Nehru"
-          ],
-          "correctAnswer": "Nehru"
+          "id": "hist_6",
+          "question": "Which empire was ruled by Napoleon?",
+          "options": ["British", "French", "Spanish", "German"],
+          "correctAnswer": "French"
         },
         {
-          "question": "Who was the first Prime Minister of India?",
-          "options": [
-            "Modi",
-            "Gandhi",
-            "Patel",
-            "Nehru"
-          ],
-          "correctAnswer": "Nehru"
+          "id": "hist_7",
+          "question": "Who was known as the Iron Man of India?",
+          "options": ["Nehru", "Gandhi", "Patel", "Bose"],
+          "correctAnswer": "Patel"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1945",
-            "1948",
-            "1950",
-            "1947"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_8",
+          "question": "In which year did the Berlin Wall fall?",
+          "options": ["1987", "1988", "1989", "1990"],
+          "correctAnswer": "1989"
         },
         {
-          "question": "Who discovered America?",
-          "options": [
-            "Lincoln",
-            "Newton",
-            "Columbus",
-            "Einstein"
-          ],
-          "correctAnswer": "Columbus"
+          "id": "hist_9",
+          "question": "Who was the first woman Prime Minister of India?",
+          "options": ["Sonia Gandhi", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+          "correctAnswer": "Indira Gandhi"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1950",
-            "1947",
-            "1945",
-            "1948"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_10",
+          "question": "Which civilization built the pyramids?",
+          "options": ["Roman", "Greek", "Egyptian", "Mesopotamian"],
+          "correctAnswer": "Egyptian"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1947",
-            "1950",
-            "1948",
-            "1945"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_11",
+          "question": "When did World War I begin?",
+          "options": ["1912", "1914", "1916", "1918"],
+          "correctAnswer": "1914"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1950",
-            "1945",
-            "1947",
-            "1948"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_12",
+          "question": "Who was the first person to reach the South Pole?",
+          "options": ["Ernest Shackleton", "Robert Scott", "Roald Amundsen", "Edmund Hillary"],
+          "correctAnswer": "Roald Amundsen"
         },
         {
-          "question": "Who discovered America?",
-          "options": [
-            "Einstein",
-            "Lincoln",
-            "Columbus",
-            "Newton"
-          ],
-          "correctAnswer": "Columbus"
+          "id": "hist_13",
+          "question": "Which Indian freedom fighter was called 'Netaji'?",
+          "options": ["Bhagat Singh", "Chandrashekhar Azad", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+          "correctAnswer": "Subhas Chandra Bose"
         },
         {
-          "question": "Who discovered America?",
-          "options": [
-            "Einstein",
-            "Newton",
-            "Lincoln",
-            "Columbus"
-          ],
-          "correctAnswer": "Columbus"
+          "id": "hist_14",
+          "question": "In which year was the Battle of Panipat fought (first)?",
+          "options": ["1526", "1556", "1761", "1857"],
+          "correctAnswer": "1526"
         },
         {
-          "question": "Who was the first Prime Minister of India?",
-          "options": [
-            "Gandhi",
-            "Nehru",
-            "Patel",
-            "Modi"
-          ],
-          "correctAnswer": "Nehru"
+          "id": "hist_15",
+          "question": "Who wrote the Declaration of Independence?",
+          "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
+          "correctAnswer": "Thomas Jefferson"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1950",
-            "1947",
-            "1948",
-            "1945"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_16",
+          "question": "Which Mughal emperor built the Red Fort?",
+          "options": ["Akbar", "Shah Jahan", "Humayun", "Aurangzeb"],
+          "correctAnswer": "Shah Jahan"
         },
         {
-          "question": "Who was the first Prime Minister of India?",
-          "options": [
-            "Nehru",
-            "Gandhi",
-            "Modi",
-            "Patel"
-          ],
-          "correctAnswer": "Nehru"
+          "id": "hist_17",
+          "question": "When did the Titanic sink?",
+          "options": ["1910", "1912", "1914", "1916"],
+          "correctAnswer": "1912"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1945",
-            "1947",
-            "1948",
-            "1950"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_18",
+          "question": "Who founded the Maurya Empire?",
+          "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+          "correctAnswer": "Chandragupta Maurya"
         },
         {
-          "question": "In which year did India get independence?",
-          "options": [
-            "1950",
-            "1945",
-            "1948",
-            "1947"
-          ],
-          "correctAnswer": "1947"
+          "id": "hist_19",
+          "question": "In which year did the Russian Revolution take place?",
+          "options": ["1915", "1916", "1917", "1918"],
+          "correctAnswer": "1917"
+        },
+        {
+          "id": "hist_20",
+          "question": "Who was the last Mughal emperor?",
+          "options": ["Aurangzeb", "Shah Alam II", "Bahadur Shah Zafar", "Akbar Shah II"],
+          "correctAnswer": "Bahadur Shah Zafar"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "description": "Test your sports knowledge",
+      "gradientResource": "blue_gradient",
+      "questions": [
+        {
+          "id": "sport_1",
+          "question": "How many players are there in a cricket team?",
+          "options": ["10", "11", "12", "13"],
+          "correctAnswer": "11"
+        },
+        {
+          "id": "sport_2",
+          "question": "Which country hosted the 2021 Olympics?",
+          "options": ["China", "Japan", "Brazil", "UK"],
+          "correctAnswer": "Japan"
+        },
+        {
+          "id": "sport_3",
+          "question": "Who is known as the God of Cricket?",
+          "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Kapil Dev"],
+          "correctAnswer": "Sachin Tendulkar"
+        },
+        {
+          "id": "sport_4",
+          "question": "In which sport is the term 'slam dunk' used?",
+          "options": ["Football", "Basketball", "Tennis", "Volleyball"],
+          "correctAnswer": "Basketball"
+        },
+        {
+          "id": "sport_5",
+          "question": "How many Grand Slam tournaments are there in tennis?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": "4"
+        },
+        {
+          "id": "sport_6",
+          "question": "Which country won the 2019 Cricket World Cup?",
+          "options": ["India", "Australia", "England", "New Zealand"],
+          "correctAnswer": "England"
+        },
+        {
+          "id": "sport_7",
+          "question": "What is the maximum score possible in ten-pin bowling?",
+          "options": ["200", "250", "300", "350"],
+          "correctAnswer": "300"
+        },
+        {
+          "id": "sport_8",
+          "question": "Which sport is associated with Wimbledon?",
+          "options": ["Cricket", "Football", "Tennis", "Golf"],
+          "correctAnswer": "Tennis"
+        },
+        {
+          "id": "sport_9",
+          "question": "In football, how many players are on the field per team?",
+          "options": ["9", "10", "11", "12"],
+          "correctAnswer": "11"
+        },
+        {
+          "id": "sport_10",
+          "question": "Who holds the record for most Olympic gold medals?",
+          "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Mark Spitz"],
+          "correctAnswer": "Michael Phelps"
+        },
+        {
+          "id": "sport_11",
+          "question": "Which Indian cricketer is known as 'Captain Cool'?",
+          "options": ["Virat Kohli", "MS Dhoni", "Rohit Sharma", "KL Rahul"],
+          "correctAnswer": "MS Dhoni"
+        },
+        {
+          "id": "sport_12",
+          "question": "In which sport do you perform a slam dunk?",
+          "options": ["Volleyball", "Basketball", "Badminton", "Tennis"],
+          "correctAnswer": "Basketball"
+        },
+        {
+          "id": "sport_13",
+          "question": "How many sets are played in men's tennis at Wimbledon?",
+          "options": ["3", "5", "7", "9"],
+          "correctAnswer": "5"
+        },
+        {
+          "id": "sport_14",
+          "question": "Which country has won the most FIFA World Cups?",
+          "options": ["Germany", "Argentina", "Brazil", "Italy"],
+          "correctAnswer": "Brazil"
+        },
+        {
+          "id": "sport_15",
+          "question": "What is the diameter of a basketball hoop in inches?",
+          "options": ["16", "18", "20", "22"],
+          "correctAnswer": "18"
+        },
+        {
+          "id": "sport_16",
+          "question": "Which Indian city hosted the first-ever Indian Premier League (IPL)?",
+          "options": ["Mumbai", "Chennai", "Bangalore", "Multiple cities"],
+          "correctAnswer": "Multiple cities"
+        },
+        {
+          "id": "sport_17",
+          "question": "In golf, what is the term for one stroke under par?",
+          "options": ["Eagle", "Birdie", "Bogey", "Albatross"],
+          "correctAnswer": "Birdie"
+        },
+        {
+          "id": "sport_18",
+          "question": "How many minutes are there in a football match?",
+          "options": ["80", "90", "100", "120"],
+          "correctAnswer": "90"
+        },
+        {
+          "id": "sport_19",
+          "question": "Which sport uses the lightest ball?",
+          "options": ["Tennis", "Table Tennis", "Badminton", "Squash"],
+          "correctAnswer": "Table Tennis"
+        },
+        {
+          "id": "sport_20",
+          "question": "Who won the first-ever Cricket World Cup in 1975?",
+          "options": ["England", "Australia", "India", "West Indies"],
+          "correctAnswer": "West Indies"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "description": "Digital world knowledge",
+      "gradientResource": "purple_gradient",
+      "questions": [
+        {
+          "id": "tech_1",
+          "question": "Who founded Microsoft?",
+          "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+          "correctAnswer": "Bill Gates"
+        },
+        {
+          "id": "tech_2",
+          "question": "What does 'WWW' stand for?",
+          "options": ["World Wide Web", "World Wide Wire", "World Wide Work", "World Wide Watch"],
+          "correctAnswer": "World Wide Web"
+        },
+        {
+          "id": "tech_3",
+          "question": "Which company created the iPhone?",
+          "options": ["Google", "Samsung", "Apple", "Microsoft"],
+          "correctAnswer": "Apple"
+        },
+        {
+          "id": "tech_4",
+          "question": "What does 'AI' stand for?",
+          "options": ["Automatic Intelligence", "Artificial Intelligence", "Advanced Intelligence", "Applied Intelligence"],
+          "correctAnswer": "Artificial Intelligence"
+        },
+        {
+          "id": "tech_5",
+          "question": "Which programming language is known as the 'language of the web'?",
+          "options": ["Python", "Java", "JavaScript", "C++"],
+          "correctAnswer": "JavaScript"
+        },
+        {
+          "id": "tech_6",
+          "question": "What does 'USB' stand for?",
+          "options": ["Universal Serial Bus", "Universal System Bus", "United Serial Bus", "United System Bus"],
+          "correctAnswer": "Universal Serial Bus"
+        },
+        {
+          "id": "tech_7",
+          "question": "Which company owns YouTube?",
+          "options": ["Facebook", "Google", "Microsoft", "Amazon"],
+          "correctAnswer": "Google"
+        },
+        {
+          "id": "tech_8",
+          "question": "What is the brain of a computer called?",
+          "options": ["RAM", "Hard Drive", "CPU", "Motherboard"],
+          "correctAnswer": "CPU"
+        },
+        {
+          "id": "tech_9",
+          "question": "In which year was Facebook founded?",
+          "options": ["2003", "2004", "2005", "2006"],
+          "correctAnswer": "2004"
+        },
+        {
+          "id": "tech_10",
+          "question": "What does 'GPS' stand for?",
+          "options": ["Global Positioning System", "General Positioning System", "Global Position Service", "General Position Service"],
+          "correctAnswer": "Global Positioning System"
+        },
+        {
+          "id": "tech_11",
+          "question": "Who is the founder of Tesla and SpaceX?",
+          "options": ["Jeff Bezos", "Elon Musk", "Tim Cook", "Sundar Pichai"],
+          "correctAnswer": "Elon Musk"
+        },
+        {
+          "id": "tech_12",
+          "question": "What does 'HTTP' stand for?",
+          "options": ["HyperText Transfer Protocol", "HyperText Transport Protocol", "HyperTech Transfer Protocol", "HyperTech Transport Protocol"],
+          "correctAnswer": "HyperText Transfer Protocol"
+        },
+        {
+          "id": "tech_13",
+          "question": "Which social media platform was originally called 'The Facebook'?",
+          "options": ["Instagram", "Twitter", "Facebook", "LinkedIn"],
+          "correctAnswer": "Facebook"
+        },
+        {
+          "id": "tech_14",
+          "question": "What does 'RAM' stand for in computers?",
+          "options": ["Random Access Memory", "Rapid Access Memory", "Read Access Memory", "Real Access Memory"],
+          "correctAnswer": "Random Access Memory"
+        },
+        {
+          "id": "tech_15",
+          "question": "Which company developed the Android operating system?",
+          "options": ["Apple", "Microsoft", "Google", "Samsung"],
+          "correctAnswer": "Google"
+        },
+        {
+          "id": "tech_16",
+          "question": "What is the most popular programming language in 2023?",
+          "options": ["Java", "Python", "JavaScript", "C++"],
+          "correctAnswer": "Python"
+        },
+        {
+          "id": "tech_17",
+          "question": "Which company owns Instagram?",
+          "options": ["Google", "Twitter", "Facebook (Meta)", "Snapchat"],
+          "correctAnswer": "Facebook (Meta)"
+        },
+        {
+          "id": "tech_18",
+          "question": "What does 'IoT' stand for?",
+          "options": ["Internet of Things", "Interface of Technology", "Internal of Things", "Internet of Technology"],
+          "correctAnswer": "Internet of Things"
+        },
+        {
+          "id": "tech_19",
+          "question": "Which programming language is known for data science?",
+          "options": ["JavaScript", "Python", "C++", "Ruby"],
+          "correctAnswer": "Python"
+        },
+        {
+          "id": "tech_20",
+          "question": "What does 'VR' stand for?",
+          "options": ["Virtual Reality", "Visual Reality", "Video Reality", "Vivid Reality"],
+          "correctAnswer": "Virtual Reality"
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "description": "Explore the world",
+      "gradientResource": "green_gradient",
+      "questions": [
+        {
+          "id": "geo_1",
+          "question": "Which is the largest country by area?",
+          "options": ["China", "Canada", "USA", "Russia"],
+          "correctAnswer": "Russia"
+        },
+        {
+          "id": "geo_2",
+          "question": "What is the capital of Brazil?",
+          "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+          "correctAnswer": "Brasília"
+        },
+        {
+          "id": "geo_3",
+          "question": "Which river is the longest in South America?",
+          "options": ["Orinoco", "Amazon", "Paraná", "Magdalena"],
+          "correctAnswer": "Amazon"
+        },
+        {
+          "id": "geo_4",
+          "question": "Mount Everest is located in which mountain range?",
+          "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+          "correctAnswer": "Himalayas"
+        },
+        {
+          "id": "geo_5",
+          "question": "Which is the smallest continent?",
+          "options": ["Europe", "Australia", "Antarctica", "South America"],
+          "correctAnswer": "Australia"
+        },
+        {
+          "id": "geo_6",
+          "question": "What is the capital of Canada?",
+          "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+          "correctAnswer": "Ottawa"
+        },
+        {
+          "id": "geo_7",
+          "question": "Which desert is the largest in the world?",
+          "options": ["Gobi", "Sahara", "Kalahari", "Arabian"],
+          "correctAnswer": "Sahara"
+        },
+        {
+          "id": "geo_8",
+          "question": "Which country has the most time zones?",
+          "options": ["USA", "Russia", "China", "India"],
+          "correctAnswer": "Russia"
+        },
+        {
+          "id": "geo_9",
+          "question": "What is the deepest ocean trench?",
+          "options": ["Peru-Chile Trench", "Mariana Trench", "Puerto Rico Trench", "Java Trench"],
+          "correctAnswer": "Mariana Trench"
+        },
+        {
+          "id": "geo_10",
+          "question": "Which African country was never colonized?",
+          "options": ["Ethiopia", "Liberia", "Morocco", "Egypt"],
+          "correctAnswer": "Ethiopia"
+        },
+        {
+          "id": "geo_11",
+          "question": "What is the longest river in the world?",
+          "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+          "correctAnswer": "Nile"
+        },
+        {
+          "id": "geo_12",
+          "question": "Which is the highest waterfall in the world?",
+          "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+          "correctAnswer": "Angel Falls"
+        },
+        {
+          "id": "geo_13",
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correctAnswer": "Canberra"
+        },
+        {
+          "id": "geo_14",
+          "question": "Which sea is the saltiest?",
+          "options": ["Mediterranean Sea", "Dead Sea", "Red Sea", "Arabian Sea"],
+          "correctAnswer": "Dead Sea"
+        },
+        {
+          "id": "geo_15",
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correctAnswer": "Vatican City"
+        },
+        {
+          "id": "geo_16",
+          "question": "Which is the driest place on Earth?",
+          "options": ["Sahara Desert", "Atacama Desert", "Death Valley", "Gobi Desert"],
+          "correctAnswer": "Atacama Desert"
+        },
+        {
+          "id": "geo_17",
+          "question": "What is the capital of New Zealand?",
+          "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+          "correctAnswer": "Wellington"
+        },
+        {
+          "id": "geo_18",
+          "question": "Which lake is the largest by surface area?",
+          "options": ["Lake Superior", "Caspian Sea", "Lake Victoria", "Lake Baikal"],
+          "correctAnswer": "Caspian Sea"
+        },
+        {
+          "id": "geo_19",
+          "question": "Which country is both in Europe and Asia?",
+          "options": ["Russia", "Turkey", "Kazakhstan", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "id": "geo_20",
+          "question": "What is the capital of South Africa?",
+          "options": ["Johannesburg", "Cape Town", "Durban", "Multiple capitals"],
+          "correctAnswer": "Multiple capitals"
         }
       ]
     }
