@@ -1,0 +1,1439 @@
+{
+  "categories": [
+    {
+      "name": "General Knowledge",
+      "questions": [
+        {
+          "question": "What is the capital of India?",
+          "options": [
+            "Chennai",
+            "Delhi",
+            "Kolkata",
+            "Mumbai"
+          ],
+          "correctAnswer": "Delhi"
+        },
+        {
+          "question": "Who is the President of India (2025)?",
+          "options": [
+            "Kovind",
+            "Murmu",
+            "Gandhi",
+            "Modi"
+          ],
+          "correctAnswer": "Murmu"
+        },
+        {
+          "question": "What is the capital of India?",
+          "options": [
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Delhi"
+          ],
+          "correctAnswer": "Delhi"
+        },
+        {
+          "question": "Who is the President of India (2025)?",
+          "options": [
+            "Kovind",
+            "Gandhi",
+            "Murmu",
+            "Modi"
+          ],
+          "correctAnswer": "Murmu"
+        },
+        {
+          "question": "Who is the President of India (2025)?",
+          "options": [
+            "Modi",
+            "Murmu",
+            "Gandhi",
+            "Kovind"
+          ],
+          "correctAnswer": "Murmu"
+        },
+        {
+          "question": "What is the capital of India?",
+          "options": [
+            "Chennai",
+            "Delhi",
+            "Kolkata",
+            "Mumbai"
+          ],
+          "correctAnswer": "Delhi"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Australia",
+            "Asia",
+            "Europe",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Who is the President of India (2025)?",
+          "options": [
+            "Gandhi",
+            "Kovind",
+            "Murmu",
+            "Modi"
+          ],
+          "correctAnswer": "Murmu"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Europe",
+            "Africa",
+            "Asia",
+            "Australia"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Africa",
+            "Europe",
+            "Australia",
+            "Asia"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Australia",
+            "Africa",
+            "Europe",
+            "Asia"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Asia",
+            "Australia",
+            "Africa",
+            "Europe"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Australia",
+            "Asia",
+            "Europe",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Australia",
+            "Asia",
+            "Europe",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "What is the capital of India?",
+          "options": [
+            "Delhi",
+            "Kolkata",
+            "Mumbai",
+            "Chennai"
+          ],
+          "correctAnswer": "Delhi"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Europe",
+            "Australia",
+            "Asia",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Asia",
+            "Europe",
+            "Australia",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Who is the President of India (2025)?",
+          "options": [
+            "Murmu",
+            "Gandhi",
+            "Kovind",
+            "Modi"
+          ],
+          "correctAnswer": "Murmu"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Europe",
+            "Australia",
+            "Asia",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "Which continent is the Sahara Desert in?",
+          "options": [
+            "Australia",
+            "Europe",
+            "Asia",
+            "Africa"
+          ],
+          "correctAnswer": "Africa"
+        }
+      ]
+    },
+    {
+      "name": "Bollywood",
+      "questions": [
+        {
+          "question": "Who played the lead in 'Shershaah'?",
+          "options": [
+            "Ranveer Singh",
+            "Varun Dhawan",
+            "Tiger Shroff",
+            "Sidharth Malhotra"
+          ],
+          "correctAnswer": "Sidharth Malhotra"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Imtiaz Ali",
+            "Anurag Kashyap",
+            "Karan Johar",
+            "Rajkumar Hirani"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Karan Johar",
+            "Imtiaz Ali"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Aashiqui 2",
+            "Rockstar",
+            "Barfi",
+            "Kabir Singh"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Karan Johar",
+            "Imtiaz Ali",
+            "Rajkumar Hirani",
+            "Anurag Kashyap"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Rajkumar Hirani",
+            "Imtiaz Ali",
+            "Anurag Kashyap",
+            "Karan Johar"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Karan Johar",
+            "Imtiaz Ali"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Rajkumar Hirani",
+            "Imtiaz Ali",
+            "Karan Johar",
+            "Anurag Kashyap"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Rockstar",
+            "Barfi",
+            "Kabir Singh",
+            "Aashiqui 2"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Rockstar",
+            "Barfi",
+            "Aashiqui 2",
+            "Kabir Singh"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Kabir Singh",
+            "Rockstar",
+            "Barfi",
+            "Aashiqui 2"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Kabir Singh",
+            "Rockstar",
+            "Barfi",
+            "Aashiqui 2"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Who played the lead in 'Shershaah'?",
+          "options": [
+            "Sidharth Malhotra",
+            "Varun Dhawan",
+            "Tiger Shroff",
+            "Ranveer Singh"
+          ],
+          "correctAnswer": "Sidharth Malhotra"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Karan Johar",
+            "Imtiaz Ali"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Aashiqui 2",
+            "Kabir Singh",
+            "Barfi",
+            "Rockstar"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Kabir Singh",
+            "Aashiqui 2",
+            "Barfi",
+            "Rockstar"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        },
+        {
+          "question": "Who directed '3 Idiots'?",
+          "options": [
+            "Karan Johar",
+            "Rajkumar Hirani",
+            "Imtiaz Ali",
+            "Anurag Kashyap"
+          ],
+          "correctAnswer": "Rajkumar Hirani"
+        },
+        {
+          "question": "Who played the lead in 'Shershaah'?",
+          "options": [
+            "Tiger Shroff",
+            "Sidharth Malhotra",
+            "Ranveer Singh",
+            "Varun Dhawan"
+          ],
+          "correctAnswer": "Sidharth Malhotra"
+        },
+        {
+          "question": "Who played the lead in 'Shershaah'?",
+          "options": [
+            "Tiger Shroff",
+            "Varun Dhawan",
+            "Ranveer Singh",
+            "Sidharth Malhotra"
+          ],
+          "correctAnswer": "Sidharth Malhotra"
+        },
+        {
+          "question": "Which movie is known for the song 'Tum Hi Ho'?",
+          "options": [
+            "Aashiqui 2",
+            "Rockstar",
+            "Kabir Singh",
+            "Barfi"
+          ],
+          "correctAnswer": "Aashiqui 2"
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": [
+            "Venus",
+            "Earth",
+            "Jupiter",
+            "Mars"
+          ],
+          "correctAnswer": "Mars"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Nitrogen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Oxygen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": [
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": "Mars"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Water",
+            "Salt"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Carbon Dioxide"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Salt",
+            "Oxygen",
+            "Hydrogen",
+            "Water"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Hydrogen",
+            "Water",
+            "Oxygen",
+            "Salt"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Water",
+            "Oxygen",
+            "Salt",
+            "Hydrogen"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Water",
+            "Salt",
+            "Hydrogen",
+            "Oxygen"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": [
+            "Earth",
+            "Venus",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": "Mars"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Salt",
+            "Water"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Hydrogen",
+            "Salt",
+            "Oxygen",
+            "Water"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "H2O is the chemical formula of?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Water",
+            "Salt"
+          ],
+          "correctAnswer": "Water"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Earth"
+          ],
+          "correctAnswer": "Mars"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon Dioxide",
+            "Nitrogen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "Which gas do plants absorb?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen"
+          ],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": [
+            "Jupiter",
+            "Earth",
+            "Mars",
+            "Venus"
+          ],
+          "correctAnswer": "Mars"
+        }
+      ]
+    },
+    {
+      "name": "Kids (8\u201310)",
+      "questions": [
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "6",
+            "12",
+            "10",
+            "8"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "What do bees make?",
+          "options": [
+            "Bread",
+            "Juice",
+            "Honey",
+            "Milk"
+          ],
+          "correctAnswer": "Honey"
+        },
+        {
+          "question": "What do bees make?",
+          "options": [
+            "Honey",
+            "Bread",
+            "Milk",
+            "Juice"
+          ],
+          "correctAnswer": "Honey"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "10",
+            "8",
+            "6",
+            "12"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "12",
+            "6",
+            "8",
+            "10"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "6",
+            "10",
+            "8",
+            "12"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Yellow",
+            "Green",
+            "Red",
+            "Blue"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "10",
+            "6",
+            "8",
+            "12"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "6",
+            "12",
+            "10",
+            "8"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What do bees make?",
+          "options": [
+            "Juice",
+            "Milk",
+            "Bread",
+            "Honey"
+          ],
+          "correctAnswer": "Honey"
+        },
+        {
+          "question": "What do bees make?",
+          "options": [
+            "Juice",
+            "Milk",
+            "Bread",
+            "Honey"
+          ],
+          "correctAnswer": "Honey"
+        },
+        {
+          "question": "What color is the sun?",
+          "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+          ],
+          "correctAnswer": "Yellow"
+        },
+        {
+          "question": "What do bees make?",
+          "options": [
+            "Honey",
+            "Bread",
+            "Milk",
+            "Juice"
+          ],
+          "correctAnswer": "Honey"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "8",
+            "12",
+            "6",
+            "10"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+          ],
+          "correctAnswer": "8"
+        }
+      ]
+    },
+    {
+      "name": "Indian States",
+      "questions": [
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Kerala",
+            "Goa",
+            "Hyderabad",
+            "Punjab"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Goa",
+            "Hyderabad",
+            "Kerala",
+            "Punjab"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Gujarat"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Mumbai",
+            "Pune",
+            "Nashik",
+            "Nagpur"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Nashik",
+            "Nagpur",
+            "Pune",
+            "Mumbai"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Uttar Pradesh",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Rajasthan"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Gujarat",
+            "Rajasthan"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Pune",
+            "Nagpur",
+            "Mumbai",
+            "Nashik"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Mumbai",
+            "Pune",
+            "Nagpur",
+            "Nashik"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Gujarat"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Kerala",
+            "Punjab",
+            "Hyderabad",
+            "Goa"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Mumbai",
+            "Nashik",
+            "Pune",
+            "Nagpur"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Gujarat"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Uttar Pradesh",
+            "Gujarat",
+            "Rajasthan",
+            "Madhya Pradesh"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Kerala",
+            "Punjab",
+            "Hyderabad",
+            "Goa"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Goa",
+            "Punjab",
+            "Kerala",
+            "Hyderabad"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Which state is famous for Biryani?",
+          "options": [
+            "Goa",
+            "Kerala",
+            "Punjab",
+            "Hyderabad"
+          ],
+          "correctAnswer": "Hyderabad"
+        },
+        {
+          "question": "Capital of Maharashtra?",
+          "options": [
+            "Nashik",
+            "Pune",
+            "Mumbai",
+            "Nagpur"
+          ],
+          "correctAnswer": "Mumbai"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Gujarat",
+            "Rajasthan"
+          ],
+          "correctAnswer": "Rajasthan"
+        },
+        {
+          "question": "Where is Jaipur located?",
+          "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Gujarat",
+            "Uttar Pradesh"
+          ],
+          "correctAnswer": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "questions": [
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Venus",
+            "Earth",
+            "Saturn",
+            "Mars"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Saturn",
+            "Mars",
+            "Jupiter",
+            "Uranus"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "What is Earth's only natural satellite?",
+          "options": [
+            "Asteroid",
+            "Moon",
+            "Sun",
+            "Comet"
+          ],
+          "correctAnswer": "Moon"
+        },
+        {
+          "question": "What is Earth's only natural satellite?",
+          "options": [
+            "Asteroid",
+            "Moon",
+            "Comet",
+            "Sun"
+          ],
+          "correctAnswer": "Moon"
+        },
+        {
+          "question": "What is Earth's only natural satellite?",
+          "options": [
+            "Moon",
+            "Asteroid",
+            "Sun",
+            "Comet"
+          ],
+          "correctAnswer": "Moon"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Uranus",
+            "Saturn",
+            "Jupiter",
+            "Mars"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Earth",
+            "Saturn",
+            "Mars",
+            "Venus"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Venus",
+            "Earth",
+            "Saturn",
+            "Mars"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Mars",
+            "Saturn",
+            "Uranus",
+            "Jupiter"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Uranus",
+            "Mars",
+            "Saturn",
+            "Jupiter"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Saturn",
+            "Venus"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Saturn",
+            "Mars",
+            "Uranus",
+            "Jupiter"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Mars",
+            "Earth",
+            "Saturn",
+            "Venus"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Uranus",
+            "Saturn",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Venus",
+            "Mars",
+            "Saturn",
+            "Earth"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Mars",
+            "Jupiter",
+            "Uranus",
+            "Saturn"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Jupiter",
+            "Uranus",
+            "Mars",
+            "Saturn"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which is the largest planet?",
+          "options": [
+            "Jupiter",
+            "Mars",
+            "Uranus",
+            "Saturn"
+          ],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Which planet has rings?",
+          "options": [
+            "Mars",
+            "Venus",
+            "Saturn",
+            "Earth"
+          ],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "What is Earth's only natural satellite?",
+          "options": [
+            "Comet",
+            "Asteroid",
+            "Sun",
+            "Moon"
+          ],
+          "correctAnswer": "Moon"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1950",
+            "1945",
+            "1948",
+            "1947"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Einstein",
+            "Columbus",
+            "Newton",
+            "Lincoln"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Columbus",
+            "Newton",
+            "Einstein",
+            "Lincoln"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "options": [
+            "Nehru",
+            "Modi",
+            "Patel",
+            "Gandhi"
+          ],
+          "correctAnswer": "Nehru"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Einstein",
+            "Lincoln",
+            "Columbus",
+            "Newton"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1948",
+            "1947",
+            "1950",
+            "1945"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "options": [
+            "Modi",
+            "Gandhi",
+            "Patel",
+            "Nehru"
+          ],
+          "correctAnswer": "Nehru"
+        },
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "options": [
+            "Modi",
+            "Gandhi",
+            "Patel",
+            "Nehru"
+          ],
+          "correctAnswer": "Nehru"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1945",
+            "1948",
+            "1950",
+            "1947"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Lincoln",
+            "Newton",
+            "Columbus",
+            "Einstein"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1950",
+            "1947",
+            "1945",
+            "1948"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1947",
+            "1950",
+            "1948",
+            "1945"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1950",
+            "1945",
+            "1947",
+            "1948"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Einstein",
+            "Lincoln",
+            "Columbus",
+            "Newton"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "Who discovered America?",
+          "options": [
+            "Einstein",
+            "Newton",
+            "Lincoln",
+            "Columbus"
+          ],
+          "correctAnswer": "Columbus"
+        },
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "options": [
+            "Gandhi",
+            "Nehru",
+            "Patel",
+            "Modi"
+          ],
+          "correctAnswer": "Nehru"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1950",
+            "1947",
+            "1948",
+            "1945"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "options": [
+            "Nehru",
+            "Gandhi",
+            "Modi",
+            "Patel"
+          ],
+          "correctAnswer": "Nehru"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1945",
+            "1947",
+            "1948",
+            "1950"
+          ],
+          "correctAnswer": "1947"
+        },
+        {
+          "question": "In which year did India get independence?",
+          "options": [
+            "1950",
+            "1945",
+            "1948",
+            "1947"
+          ],
+          "correctAnswer": "1947"
+        }
+      ]
+    }
+  ]
+}
