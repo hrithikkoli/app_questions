@@ -4,7 +4,7 @@
       "id": "indian_festivals",
       "name": "Indian Festivals",
       "description": "Celebrate India's colorful festivals and traditions",
-      "gradientResource": "orange_gradient",
+      "gradientResource": "green_gradient",
       "questions": [
         {
           "id": "if_1",
@@ -252,7 +252,7 @@
       "id": "indian_culture",
       "name": "Indian Culture",
       "description": "Discover India's rich heritage and traditions",
-      "gradientResource": "purple_gradient",
+      "gradientResource": "cyber_gradient",
       "questions": [
         {
           "id": "ic_1",
