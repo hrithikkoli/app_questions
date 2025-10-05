@@ -1,6 +1,502 @@
 {
   "categories": [
     {
+      "id": "indian_festivals",
+      "name": "Indian Festivals",
+      "description": "Celebrate India's colorful festivals and traditions",
+      "gradientResource": "orange_gradient",
+      "questions": [
+        {
+          "id": "if_1",
+          "question": "Who is credited with starting Ganesh Chaturthi as a public festival?",
+          "options": [
+            "Gopal Krishna Gokhale",
+            "Bal Gangadhar Tilak",
+            "Vinayak Damodar Savarkar",
+            "Lala Lajpat Rai"
+          ],
+          "correctAnswer": "Bal Gangadhar Tilak",
+          "hint": "This freedom fighter popularized it in Maharashtra to unite people! 🐘"
+        },
+        {
+          "id": "if_2",
+          "question": "Which festival is known as the harvest celebration in Kerala with boat races?",
+          "options": [
+            "Bihu",
+            "Onam",
+            "Pongal",
+            "Lohri"
+          ],
+          "correctAnswer": "Onam",
+          "hint": "It honors King Mahabali and features the snake boat race! 🚣"
+        },
+        {
+          "id": "if_3",
+          "question": "Sankranti or Pongal celebrates what seasonal event?",
+          "options": [
+            "End of autumn",
+            "Harvest season",
+            "New Year",
+            "Beginning of spring"
+          ],
+          "correctAnswer": "Harvest season",
+          "hint": "Farmers thank for the good yield with sweets and kites! 🌾"
+        },
+        {
+          "id": "if_4",
+          "question": "Which festival marks the anniversary of the tenth Sikh Guru, Guru Gobind Singh?",
+          "options": [
+            "Baisakhi",
+            "Hola Mohalla",
+            "Lohri",
+            "Guru Nanak Jayanti"
+          ],
+          "correctAnswer": "Baisakhi",
+          "hint": "It commemorates the Khalsa's formation in 1699! 🕉️"
+        },
+        {
+          "id": "if_5",
+          "question": "Chhath Puja, a four-day festival in Bihar, is dedicated to which deity?",
+          "options": [
+            "Lord Shiva",
+            "Sun God",
+            "Lord Vishnu",
+            "Goddess Lakshmi"
+          ],
+          "correctAnswer": "Sun God",
+          "hint": "Devotees fast and offer prayers at riverbanks! ☀️"
+        },
+        {
+          "id": "if_6",
+          "question": "Gudi Padwa in Maharashtra signals the start of which calendar?",
+          "options": [
+            "Gregorian",
+            "Hindu New Year",
+            "Islamic",
+            "Buddhist"
+          ],
+          "correctAnswer": "Hindu New Year",
+          "hint": "Homes are decorated with rangoli and gudis! 🌺"
+        },
+        {
+          "id": "if_7",
+          "question": "Diwali is celebrated on which lunar day in Kartik month?",
+          "options": [
+            "Purnima",
+            "Amavasya",
+            "Dwadashi",
+            "Trayodashi"
+          ],
+          "correctAnswer": "Amavasya",
+          "hint": "It's the festival of lights symbolizing good over evil! 🪔"
+        },
+        {
+          "id": "if_8",
+          "question": "Mahavir Jayanti celebrates the birth of which religious figure?",
+          "options": [
+            "Buddha",
+            "Mahavira",
+            "Guru Nanak",
+            "Jesus Christ"
+          ],
+          "correctAnswer": "Mahavira",
+          "hint": "Jain followers observe fasts and processions! 🕉️"
+        },
+        {
+          "id": "if_9",
+          "question": "Christmas in India is a national holiday marking the birth of whom?",
+          "options": [
+            "Prophet Muhammad",
+            "Lord Rama",
+            "Jesus Christ",
+            "Guru Gobind Singh"
+          ],
+          "correctAnswer": "Jesus Christ",
+          "hint": "Churches light up with decorations and carols! 🎄"
+        },
+        {
+          "id": "if_10",
+          "question": "Dussehra commemorates Lord Rama's victory over which demon?",
+          "options": [
+            "Kumbhakarna",
+            "Ravana",
+            "Indrajit",
+            "Vibhishana"
+          ],
+          "correctAnswer": "Ravana",
+          "hint": "Effigies of Ravana are burned in grand fairs! 🔥"
+        },
+        {
+          "id": "if_11",
+          "question": "Which festival involves throwing colored powders and water?",
+          "options": [
+            "Diwali",
+            "Holi",
+            "Navratri",
+            "Eid"
+          ],
+          "correctAnswer": "Holi",
+          "hint": "It celebrates spring and the triumph of good over evil! 🌈"
+        },
+        {
+          "id": "if_12",
+          "question": "Bihu festival with dances and feasts is from which state?",
+          "options": [
+            "Assam",
+            "Punjab",
+            "Rajasthan",
+            "Kerala"
+          ],
+          "correctAnswer": "Assam",
+          "hint": "Rongali Bihu marks the Assamese New Year! 🥳"
+        },
+        {
+          "id": "if_13",
+          "question": "Navratri honors which goddess over nine nights?",
+          "options": [
+            "Saraswati",
+            "Durga",
+            "Lakshmi",
+            "Parvati"
+          ],
+          "correctAnswer": "Durga",
+          "hint": "Garba and Dandiya dances light up the nights! 💃"
+        },
+        {
+          "id": "if_14",
+          "question": "Eid al-Fitr marks the end of which holy month?",
+          "options": [
+            "Muharram",
+            "Ramadan",
+            "Rajab",
+            "Shaban"
+          ],
+          "correctAnswer": "Ramadan",
+          "hint": "Families share sweets and prayers after fasting! 🌙"
+        },
+        {
+          "id": "if_15",
+          "question": "The Desert Festival in Rajasthan with camel races is held where?",
+          "options": [
+            "Jaipur",
+            "Jodhpur",
+            "Jaisalmer",
+            "Udaipur"
+          ],
+          "correctAnswer": "Jaisalmer",
+          "hint": "It showcases folk arts in the golden sands! 🐪"
+        },
+        {
+          "id": "if_16",
+          "question": "Lohri celebrates the winter harvest in which region?",
+          "options": [
+            "South India",
+            "North India",
+            "East India",
+            "West India"
+          ],
+          "correctAnswer": "North India",
+          "hint": "Bonfires and bhangra dances warm the night! 🔥"
+        },
+        {
+          "id": "if_17",
+          "question": "Buddha Purnima celebrates the birth, enlightenment, and death of whom?",
+          "options": [
+            "Mahavira",
+            "Gautama Buddha",
+            "Swami Vivekananda",
+            "Adi Shankara"
+          ],
+          "correctAnswer": "Gautama Buddha",
+          "hint": "Bodh Gaya sees thousands of pilgrims! 🛕"
+        },
+        {
+          "id": "if_18",
+          "question": "Karthigai Deepam, a festival of lights, is prominent in which state?",
+          "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Telangana"
+          ],
+          "correctAnswer": "Tamil Nadu",
+          "hint": "Lamps are lit to honor Lord Shiva! 🪔"
+        },
+        {
+          "id": "if_19",
+          "question": "Guru Nanak Jayanti commemorates the founder of which faith?",
+          "options": [
+            "Hinduism",
+            "Sikhism",
+            "Jainism",
+            "Buddhism"
+          ],
+          "correctAnswer": "Sikhism",
+          "hint": "Akhand Path recitations fill gurdwaras! 📖"
+        },
+        {
+          "id": "if_20",
+          "question": "Thrissur Pooram features grand elephant processions in which state?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Odisha"
+          ],
+          "correctAnswer": "Kerala",
+          "hint": "Fireworks and temple rituals make it spectacular! 🐘"
+        }
+      ]
+    },
+    {
+      "id": "indian_culture",
+      "name": "Indian Culture",
+      "description": "Discover India's rich heritage and traditions",
+      "gradientResource": "purple_gradient",
+      "questions": [
+        {
+          "id": "ic_1",
+          "question": "Which classical dance form originates from Uttar Pradesh?",
+          "options": [
+            "Bharatanatyam",
+            "Kathak",
+            "Odissi",
+            "Kuchipudi"
+          ],
+          "correctAnswer": "Kathak",
+          "hint": "It evolved from storytelling in temples! 💃"
+        },
+        {
+          "id": "ic_2",
+          "question": "Bharatanatyam, a classical dance, is famous in which state?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Odisha",
+            "Assam"
+          ],
+          "correctAnswer": "Tamil Nadu",
+          "hint": "It features expressive mudras and abhinaya! 🕉️"
+        },
+        {
+          "id": "ic_3",
+          "question": "Sattriya is a classical dance form of which state?",
+          "options": [
+            "Manipur",
+            "Assam",
+            "West Bengal",
+            "Nagaland"
+          ],
+          "correctAnswer": "Assam",
+          "hint": "It was created in Vaishnavite monasteries! 🛕"
+        },
+        {
+          "id": "ic_4",
+          "question": "Chhau dance, a martial folk form, belongs to which region?",
+          "options": [
+            "Punjab",
+            "Rajasthan",
+            "Odisha and Jharkhand",
+            "Gujarat"
+          ],
+          "correctAnswer": "Odisha and Jharkhand",
+          "hint": "Masks and acrobatics make it unique! 🎭"
+        },
+        {
+          "id": "ic_5",
+          "question": "Kolattam, a folk dance with sticks, is from which state?",
+          "options": [
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Kerala",
+            "Karnataka"
+          ],
+          "correctAnswer": "Andhra Pradesh",
+          "hint": "It's performed during festivals like Sankranti! 🥁"
+        },
+        {
+          "id": "ic_6",
+          "question": "Madhubani paintings, a folk art style, are popular in which state?",
+          "options": [
+            "Rajasthan",
+            "Bihar",
+            "Gujarat",
+            "West Bengal"
+          ],
+          "correctAnswer": "Bihar",
+          "hint": "Women create these with natural colors! 🎨"
+        },
+        {
+          "id": "ic_7",
+          "question": "'Natya Shastra', the ancient treatise on performing arts, was written by whom?",
+          "options": [
+            "Valmiki",
+            "Bharat Muni",
+            "Kalidasa",
+            "Tulsidas"
+          ],
+          "correctAnswer": "Bharat Muni",
+          "hint": "It guides classical dances and drama! 📜"
+        },
+        {
+          "id": "ic_8",
+          "question": "The national anthem 'Jana Gana Mana' was first sung in which year?",
+          "options": [
+            "1905",
+            "1911",
+            "1920",
+            "1947"
+          ],
+          "correctAnswer": "1911",
+          "hint": "At the Calcutta Session of Indian National Congress! 🇮🇳"
+        },
+        {
+          "id": "ic_9",
+          "question": "Aipan is a traditional art form of floor paintings from which state?",
+          "options": [
+            "Uttarakhand",
+            "Himachal Pradesh",
+            "Jammu & Kashmir",
+            "Sikkim"
+          ],
+          "correctAnswer": "Uttarakhand",
+          "hint": "It's drawn during festivals with rice paste! 🏠"
+        },
+        {
+          "id": "ic_10",
+          "question": "Kolam designs are intricate rangoli patterns from which state?",
+          "options": [
+            "Tamil Nadu",
+            "Kerala",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "correctAnswer": "Tamil Nadu",
+          "hint": "They welcome prosperity at doorsteps! 🌸"
+        },
+        {
+          "id": "ic_11",
+          "question": "Thillana is a rhythmic piece in which classical dance?",
+          "options": [
+            "Kathak",
+            "Odissi",
+            "Bharatanatyam",
+            "Mohiniyattam"
+          ],
+          "correctAnswer": "Bharatanatyam",
+          "hint": "It ends performances with fast footwork! 🥁"
+        },
+        {
+          "id": "ic_12",
+          "question": "Ottan Thullal is a folk dance-drama from which state?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Telangana"
+          ],
+          "correctAnswer": "Kerala",
+          "hint": "It satirizes society with humor! 😂"
+        },
+        {
+          "id": "ic_13",
+          "question": "The words 'Satyameva Jayate' on the national emblem are from which text?",
+          "options": [
+            "Rig Veda",
+            "Mundaka Upanishad",
+            "Bhagavad Gita",
+            "Ramayana"
+          ],
+          "correctAnswer": "Mundaka Upanishad",
+          "hint": "It means 'Truth Alone Triumphs'! ⚖️"
+        },
+        {
+          "id": "ic_14",
+          "question": "Garba, a circular folk dance, is associated with which state?",
+          "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Maharashtra",
+            "Madhya Pradesh"
+          ],
+          "correctAnswer": "Gujarat",
+          "hint": "It's danced during Navratri around a lamp! 💃"
+        },
+        {
+          "id": "ic_15",
+          "question": "The Sangeet Akademi fosters development of which arts?",
+          "options": [
+            "Visual arts",
+            "Dance, drama, and music",
+            "Literature",
+            "Cinema"
+          ],
+          "correctAnswer": "Dance, drama, and music",
+          "hint": "India's national academy for performing arts! 🎼"
+        },
+        {
+          "id": "ic_16",
+          "question": "'Sare Jahan Se Achha' was composed by whom?",
+          "options": [
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterjee",
+            "Mohammad Iqbal",
+            "Sarojini Naidu"
+          ],
+          "correctAnswer": "Mohammad Iqbal",
+          "hint": "A patriotic song from 1904! 🇮🇳"
+        },
+        {
+          "id": "ic_17",
+          "question": "Kathakali, with elaborate costumes and makeup, is from which state?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "correctAnswer": "Kerala",
+          "hint": "It enacts stories from epics like Mahabharata! 🎭"
+        },
+        {
+          "id": "ic_18",
+          "question": "The national song 'Vande Mataram' was composed by whom?",
+          "options": [
+            "Muhammad Iqbal",
+            "Bankim Chandra Chatterjee",
+            "Rabindranath Tagore",
+            "Swami Vivekananda"
+          ],
+          "correctAnswer": "Bankim Chandra Chatterjee",
+          "hint": "From his novel Anandamath in 1882! 📖"
+        },
+        {
+          "id": "ic_19",
+          "question": "Mohiniyattam dance, graceful and feminine, developed in which state?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Odisha"
+          ],
+          "correctAnswer": "Kerala",
+          "hint": "It portrays the enchantress Mohini! 💃"
+        },
+        {
+          "id": "ic_20",
+          "question": "Warli paintings, tribal art with geometric patterns, are from which state?",
+          "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Rajasthan",
+            "Madhya Pradesh"
+          ],
+          "correctAnswer": "Maharashtra",
+          "hint": "They depict daily village life! 🎨"
+        }
+      ]
+    },
+    {
       "id": "kids_4_7",
       "name": "Kids (4–7)",
       "description": "Fun and easy questions for little ones",
