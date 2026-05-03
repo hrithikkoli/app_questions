@@ -1,5 +1,6 @@
 {
   "categories": [
+    
     {
       "id": "indian_festivals",
       "name": "Indian Festivals",
@@ -2271,6 +2272,1248 @@
           "hint": "It's known as the 'Scotland of the East'! 🏔️"
         }
       ]
+    },
+      {
+      "id": "indian_freedom_struggle",
+      "name": "Indian Freedom Struggle",
+      "description": "Heroes and events of India's independence movement",
+      "gradientResource": "orange_gradient",
+      "questions": [
+        {
+          "id": "ifs_1",
+          "question": "Who gave the slogan 'Do or Die' during the Quit India Movement?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Bal Gangadhar Tilak",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose"
+          ],
+          "correctAnswer": "Mahatma Gandhi",
+          "hint": "He launched the Quit India Movement on August 8, 1942! 🇮🇳"
+        },
+        {
+          "id": "ifs_2",
+          "question": "In which year was the Indian National Congress founded?",
+          "options": [
+            "1880",
+            "1885",
+            "1890",
+            "1895"
+          ],
+          "correctAnswer": "1885",
+          "hint": "A.O. Hume was instrumental in its founding in Bombay! 📜"
+        },
+        {
+          "id": "ifs_3",
+          "question": "Who led the Dandi March in 1930?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Sardar Patel"
+          ],
+          "correctAnswer": "Mahatma Gandhi",
+          "hint": "It was a 240-mile march to make salt from the sea! 🧂"
+        },
+        {
+          "id": "ifs_4",
+          "question": "Who founded the Indian National Army (INA)?",
+          "options": [
+            "Bhagat Singh",
+            "Subhas Chandra Bose",
+            "Bal Gangadhar Tilak",
+            "Lala Lajpat Rai"
+          ],
+          "correctAnswer": "Subhas Chandra Bose",
+          "hint": "He gave the slogan 'Jai Hind' and 'Give me blood, I'll give you freedom'! ⚔️"
+        },
+        {
+          "id": "ifs_5",
+          "question": "The Jallianwala Bagh massacre took place in which year?",
+          "options": [
+            "1915",
+            "1917",
+            "1919",
+            "1921"
+          ],
+          "correctAnswer": "1919",
+          "hint": "General Dyer ordered firing on unarmed civilians in Amritsar! 😢"
+        },
+        {
+          "id": "ifs_6",
+          "question": "Who was known as the 'Father of the Indian Constitution'?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Sardar Patel",
+            "B.R. Ambedkar",
+            "Rajendra Prasad"
+          ],
+          "correctAnswer": "B.R. Ambedkar",
+          "hint": "He was the Chairman of the Drafting Committee! 📖"
+        },
+        {
+          "id": "ifs_7",
+          "question": "What was the name of the movement launched in 1920 by Gandhi against British rule?",
+          "options": [
+            "Civil Disobedience",
+            "Non-Cooperation Movement",
+            "Quit India",
+            "Swadeshi Movement"
+          ],
+          "correctAnswer": "Non-Cooperation Movement",
+          "hint": "It urged Indians to boycott British goods and institutions! ✊"
+        },
+        {
+          "id": "ifs_8",
+          "question": "Who assassinated Mahatma Gandhi on January 30, 1948?",
+          "options": [
+            "Shyamji Krishna Varma",
+            "Nathuram Godse",
+            "Vinayak Savarkar",
+            "Madanlal Pahwa"
+          ],
+          "correctAnswer": "Nathuram Godse",
+          "hint": "He shot Gandhi at Birla House in New Delhi! 🕊️"
+        },
+        {
+          "id": "ifs_9",
+          "question": "Which act divided India into two nations in 1947?",
+          "options": [
+            "Morley-Minto Act",
+            "Government of India Act 1935",
+            "Indian Independence Act",
+            "Rowlatt Act"
+          ],
+          "correctAnswer": "Indian Independence Act",
+          "hint": "It was passed by the British Parliament on July 18, 1947! ⚖️"
+        },
+        {
+          "id": "ifs_10",
+          "question": "Bhagat Singh was hanged on which date?",
+          "options": [
+            "March 23, 1930",
+            "March 23, 1931",
+            "March 23, 1932",
+            "March 23, 1929"
+          ],
+          "correctAnswer": "March 23, 1931",
+          "hint": "He was 23 years old when executed at Lahore Central Jail! 🌹"
+        },
+        {
+          "id": "ifs_11",
+          "question": "Who was the first Governor-General of independent India?",
+          "options": [
+            "Jawaharlal Nehru",
+            "C. Rajagopalachari",
+            "Lord Mountbatten",
+            "Rajendra Prasad"
+          ],
+          "correctAnswer": "Lord Mountbatten",
+          "hint": "He oversaw the partition and transfer of power! 🇬🇧"
+        },
+        {
+          "id": "ifs_12",
+          "question": "The Lucknow Pact of 1916 was signed between which two parties?",
+          "options": [
+            "Congress and Muslim League",
+            "Congress and British Government",
+            "Hindu Mahasabha and Congress",
+            "Muslim League and British"
+          ],
+          "correctAnswer": "Congress and Muslim League",
+          "hint": "It was a rare moment of Hindu-Muslim political unity! 🤝"
+        },
+        {
+          "id": "ifs_13",
+          "question": "Who coined the title 'Mahatma' for Gandhi?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Rabindranath Tagore",
+            "Gopal Krishna Gokhale",
+            "B.R. Ambedkar"
+          ],
+          "correctAnswer": "Rabindranath Tagore",
+          "hint": "The Nobel laureate bestowed this title meaning 'Great Soul'! 🌟"
+        },
+        {
+          "id": "ifs_14",
+          "question": "The Simon Commission was boycotted because it had no Indian members. In which year did it arrive?",
+          "options": [
+            "1926",
+            "1927",
+            "1928",
+            "1929"
+          ],
+          "correctAnswer": "1928",
+          "hint": "Lala Lajpat Rai led the protests and was injured! ✊"
+        },
+        {
+          "id": "ifs_15",
+          "question": "India's first Prime Minister Jawaharlal Nehru was born on which date?",
+          "options": [
+            "November 12, 1889",
+            "November 14, 1889",
+            "November 14, 1890",
+            "November 12, 1890"
+          ],
+          "correctAnswer": "November 14, 1889",
+          "hint": "His birthday is celebrated as Children's Day in India! 🎈"
+        },
+        {
+          "id": "ifs_16",
+          "question": "Who was the last Viceroy of India?",
+          "options": [
+            "Lord Wavell",
+            "Lord Linlithgow",
+            "Lord Mountbatten",
+            "Lord Curzon"
+          ],
+          "correctAnswer": "Lord Mountbatten",
+          "hint": "He oversaw the British departure in August 1947! 🎖️"
+        },
+        {
+          "id": "ifs_17",
+          "question": "The Rowlatt Act of 1919 allowed the British to do what without trial?",
+          "options": [
+            "Collect taxes",
+            "Imprison political activists",
+            "Ban newspapers",
+            "Dissolve Congress"
+          ],
+          "correctAnswer": "Imprison political activists",
+          "hint": "It outraged Indians and sparked nationwide protests! 😠"
+        },
+        {
+          "id": "ifs_18",
+          "question": "Who started the Gadar Party to fight for Indian independence?",
+          "options": [
+            "Bal Gangadhar Tilak",
+            "Lala Hardayal",
+            "Bhagat Singh",
+            "Subhas Chandra Bose"
+          ],
+          "correctAnswer": "Lala Hardayal",
+          "hint": "It was founded in 1913 in San Francisco! 🌍"
+        },
+        {
+          "id": "ifs_19",
+          "question": "India became a Republic on January 26 of which year?",
+          "options": [
+            "1947",
+            "1948",
+            "1950",
+            "1952"
+          ],
+          "correctAnswer": "1950",
+          "hint": "The Constitution came into effect on this day! 📜"
+        },
+        {
+          "id": "ifs_20",
+          "question": "Who was called 'Punjab Kesari' (Lion of Punjab)?",
+          "options": [
+            "Bhagat Singh",
+            "Lala Lajpat Rai",
+            "Bal Gangadhar Tilak",
+            "Bipin Chandra Pal"
+          ],
+          "correctAnswer": "Lala Lajpat Rai",
+          "hint": "He died from injuries during Simon Commission protests! 🦁"
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "Numbers, logic, and mathematical concepts",
+      "gradientResource": "blue_gradient",
+      "questions": [
+        {
+          "id": "math_1",
+          "question": "What is the value of Pi (π) up to two decimal places?",
+          "options": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.18"
+          ],
+          "correctAnswer": "3.14",
+          "hint": "It's the ratio of a circle's circumference to its diameter! 🔵"
+        },
+        {
+          "id": "math_2",
+          "question": "What is the square root of 144?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correctAnswer": "12",
+          "hint": "12 × 12 = 144! 🔢"
+        },
+        {
+          "id": "math_3",
+          "question": "How many degrees are in a right angle?",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "180°"
+          ],
+          "correctAnswer": "90°",
+          "hint": "It looks like the corner of a square! 📐"
+        },
+        {
+          "id": "math_4",
+          "question": "What is the next prime number after 13?",
+          "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+          ],
+          "correctAnswer": "17",
+          "hint": "It can only be divided by 1 and itself! 🔢"
+        },
+        {
+          "id": "math_5",
+          "question": "What is 15% of 200?",
+          "options": [
+            "25",
+            "30",
+            "35",
+            "40"
+          ],
+          "correctAnswer": "30",
+          "hint": "Find 10% first (20), then add half of that! 💯"
+        },
+        {
+          "id": "math_6",
+          "question": "What is the formula for the area of a circle?",
+          "options": [
+            "2πr",
+            "πr²",
+            "πd",
+            "2πr²"
+          ],
+          "correctAnswer": "πr²",
+          "hint": "Pi times the radius squared! 🔵"
+        },
+        {
+          "id": "math_7",
+          "question": "What is the sum of angles in a triangle?",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "correctAnswer": "180°",
+          "hint": "Tear a triangle's corners and place them — they form a straight line! 🔺"
+        },
+        {
+          "id": "math_8",
+          "question": "What is the Fibonacci sequence's 7th number (starting 1, 1, 2, 3...)?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correctAnswer": "13",
+          "hint": "Each number is the sum of the two before it! 🌀"
+        },
+        {
+          "id": "math_9",
+          "question": "What is 2 to the power of 10?",
+          "options": [
+            "512",
+            "1024",
+            "2048",
+            "256"
+          ],
+          "correctAnswer": "1024",
+          "hint": "That's why 1 kilobyte = 1024 bytes! 💻"
+        },
+        {
+          "id": "math_10",
+          "question": "What is the LCM of 4 and 6?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "24"
+          ],
+          "correctAnswer": "12",
+          "hint": "The smallest number both 4 and 6 divide into! 🔢"
+        },
+        {
+          "id": "math_11",
+          "question": "A quadrilateral has how many sides?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "'Quad' means four in Latin! ▭"
+        },
+        {
+          "id": "math_12",
+          "question": "What is the decimal equivalent of the fraction 3/4?",
+          "options": [
+            "0.50",
+            "0.60",
+            "0.75",
+            "0.80"
+          ],
+          "correctAnswer": "0.75",
+          "hint": "Think of it as 75 cents of a dollar! 💰"
+        },
+        {
+          "id": "math_13",
+          "question": "What is the perimeter of a square with side 5 cm?",
+          "options": [
+            "15 cm",
+            "20 cm",
+            "25 cm",
+            "10 cm"
+          ],
+          "correctAnswer": "20 cm",
+          "hint": "Add all four equal sides together! 📏"
+        },
+        {
+          "id": "math_14",
+          "question": "What is the Roman numeral for 100?",
+          "options": [
+            "L",
+            "C",
+            "D",
+            "M"
+          ],
+          "correctAnswer": "C",
+          "hint": "It stands for 'Centum' in Latin! 🏛️"
+        },
+        {
+          "id": "math_15",
+          "question": "Which of these is NOT a prime number?",
+          "options": [
+            "11",
+            "13",
+            "15",
+            "17"
+          ],
+          "correctAnswer": "15",
+          "hint": "It can be divided by 3 and 5! 🔢"
+        },
+        {
+          "id": "math_16",
+          "question": "What is the mode of: 3, 5, 3, 7, 5, 3, 9?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+          ],
+          "correctAnswer": "3",
+          "hint": "Mode is the number that appears most frequently! 📊"
+        },
+        {
+          "id": "math_17",
+          "question": "What is the value of 0! (zero factorial)?",
+          "options": [
+            "0",
+            "1",
+            "Undefined",
+            "Infinity"
+          ],
+          "correctAnswer": "1",
+          "hint": "It's a special mathematical convention! 🤯"
+        },
+        {
+          "id": "math_18",
+          "question": "If a triangle has sides 3, 4, and 5 — what type is it?",
+          "options": [
+            "Equilateral",
+            "Isosceles",
+            "Right-angled",
+            "Obtuse"
+          ],
+          "correctAnswer": "Right-angled",
+          "hint": "3² + 4² = 5² — that's the Pythagorean theorem! 📐"
+        },
+        {
+          "id": "math_19",
+          "question": "What is the HCF (GCD) of 18 and 24?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "correctAnswer": "6",
+          "hint": "The largest number that divides both evenly! 🔢"
+        },
+        {
+          "id": "math_20",
+          "question": "How many edges does a cube have?",
+          "options": [
+            "6",
+            "8",
+            "12",
+            "16"
+          ],
+          "correctAnswer": "12",
+          "hint": "4 on top, 4 on bottom, 4 connecting them! 🎲"
+        }
+      ]
+    },
+    {
+      "id": "indian_cuisine",
+      "name": "Indian Cuisine",
+      "description": "Explore the flavors and food of India",
+      "gradientResource": "orange_gradient",
+      "questions": [
+        {
+          "id": "ic2_1",
+          "question": "Which state is known as the origin of the dish 'Biryani' in India?",
+          "options": [
+            "Rajasthan",
+            "Hyderabad (Telangana)",
+            "Punjab",
+            "Tamil Nadu"
+          ],
+          "correctAnswer": "Hyderabad (Telangana)",
+          "hint": "Hyderabadi Dum Biryani is world-famous! 🍚"
+        },
+        {
+          "id": "ic2_2",
+          "question": "What is the main ingredient in the popular dish 'Dal Makhani'?",
+          "options": [
+            "Moong dal",
+            "Toor dal",
+            "Black lentils (urad dal)",
+            "Masoor dal"
+          ],
+          "correctAnswer": "Black lentils (urad dal)",
+          "hint": "It's slow-cooked overnight with butter and cream! 🍲"
+        },
+        {
+          "id": "ic2_3",
+          "question": "Which Indian bread is baked in a tandoor clay oven?",
+          "options": [
+            "Chapati",
+            "Puri",
+            "Naan",
+            "Paratha"
+          ],
+          "correctAnswer": "Naan",
+          "hint": "It's leavened with yeast and often buttered! 🫓"
+        },
+        {
+          "id": "ic2_4",
+          "question": "Pav Bhaji originated in which city?",
+          "options": [
+            "Delhi",
+            "Kolkata",
+            "Mumbai",
+            "Chennai"
+          ],
+          "correctAnswer": "Mumbai",
+          "hint": "It was invented for textile mill workers as a quick meal! 🍞"
+        },
+        {
+          "id": "ic2_5",
+          "question": "What spice gives turmeric its yellow color?",
+          "options": [
+            "Curcumin",
+            "Capsaicin",
+            "Piperine",
+            "Thymol"
+          ],
+          "correctAnswer": "Curcumin",
+          "hint": "It also has anti-inflammatory properties! 🌿"
+        },
+        {
+          "id": "ic2_6",
+          "question": "Dhokla is a popular snack from which state?",
+          "options": [
+            "Maharashtra",
+            "Rajasthan",
+            "Gujarat",
+            "Punjab"
+          ],
+          "correctAnswer": "Gujarat",
+          "hint": "It's made from fermented chickpea batter and steamed! 🟡"
+        },
+        {
+          "id": "ic2_7",
+          "question": "Which sweet is also known as 'Gulab Jamun's Bengali cousin'?",
+          "options": [
+            "Rasgulla",
+            "Jalebi",
+            "Barfi",
+            "Halwa"
+          ],
+          "correctAnswer": "Rasgulla",
+          "hint": "Soft cottage cheese balls soaked in sugar syrup from West Bengal! 🍬"
+        },
+        {
+          "id": "ic2_8",
+          "question": "What is 'Rasam' primarily made from?",
+          "options": [
+            "Milk and rice",
+            "Tamarind and tomato",
+            "Coconut and lentils",
+            "Yogurt and cucumber"
+          ],
+          "correctAnswer": "Tamarind and tomato",
+          "hint": "This thin South Indian soup aids digestion! 🍵"
+        },
+        {
+          "id": "ic2_9",
+          "question": "Which is the hottest chilli in India?",
+          "options": [
+            "Kashmiri chilli",
+            "Guntur chilli",
+            "Bhut Jolokia",
+            "Byadgi chilli"
+          ],
+          "correctAnswer": "Bhut Jolokia",
+          "hint": "Also called Ghost Pepper, it's from Nagaland and Assam! 🔥"
+        },
+        {
+          "id": "ic2_10",
+          "question": "Chole Bhature is a dish associated with which region?",
+          "options": [
+            "South India",
+            "North India (Punjab)",
+            "East India",
+            "West India"
+          ],
+          "correctAnswer": "North India (Punjab)",
+          "hint": "Spicy chickpeas with deep-fried bread — a Sunday morning classic! 😋"
+        },
+        {
+          "id": "ic2_11",
+          "question": "What is the main ingredient in 'Kheer'?",
+          "options": [
+            "Wheat and milk",
+            "Rice and milk",
+            "Semolina and milk",
+            "Lentils and milk"
+          ],
+          "correctAnswer": "Rice and milk",
+          "hint": "This sweet pudding is offered at temples and festivals! 🍚"
+        },
+        {
+          "id": "ic2_12",
+          "question": "Idli and Dosa batter is primarily made from which two ingredients?",
+          "options": [
+            "Rice and urad dal",
+            "Wheat and urad dal",
+            "Rice and moong dal",
+            "Semolina and curd"
+          ],
+          "correctAnswer": "Rice and urad dal",
+          "hint": "The batter is fermented overnight before cooking! 🫓"
+        },
+        {
+          "id": "ic2_13",
+          "question": "Which Indian spice blend literally means 'hot spices'?",
+          "options": [
+            "Chaat masala",
+            "Garam masala",
+            "Sambar powder",
+            "Rasam powder"
+          ],
+          "correctAnswer": "Garam masala",
+          "hint": "It's added at the end of cooking for aroma! 🌶️"
+        },
+        {
+          "id": "ic2_14",
+          "question": "Litti Chokha is a traditional dish from which state?",
+          "options": [
+            "Uttar Pradesh",
+            "Jharkhand and Bihar",
+            "Rajasthan",
+            "Madhya Pradesh"
+          ],
+          "correctAnswer": "Jharkhand and Bihar",
+          "hint": "Wheat balls stuffed with sattu roasted over coal! 🔥"
+        },
+        {
+          "id": "ic2_15",
+          "question": "What is 'Kulfi' most similar to?",
+          "options": [
+            "Yogurt",
+            "Ice cream",
+            "Sorbet",
+            "Milkshake"
+          ],
+          "correctAnswer": "Ice cream",
+          "hint": "It's denser than ice cream and traditionally in a cone shape! 🍦"
+        },
+        {
+          "id": "ic2_16",
+          "question": "Which state is famous for its 'Rogan Josh' curry?",
+          "options": [
+            "Punjab",
+            "Rajasthan",
+            "Jammu & Kashmir",
+            "Himachal Pradesh"
+          ],
+          "correctAnswer": "Jammu & Kashmir",
+          "hint": "A rich aromatic lamb curry of Kashmiri Wazwan cuisine! 🍖"
+        },
+        {
+          "id": "ic2_17",
+          "question": "What does 'Tandoori' cooking style refer to?",
+          "options": [
+            "Deep frying in oil",
+            "Cooking in a clay oven",
+            "Steaming in water",
+            "Slow-cooking on low flame"
+          ],
+          "correctAnswer": "Cooking in a clay oven",
+          "hint": "The clay pot can reach temperatures of over 480°C! 🔥"
+        },
+        {
+          "id": "ic2_18",
+          "question": "Which Indian city is known as the 'Street Food Capital'?",
+          "options": [
+            "Mumbai",
+            "Kolkata",
+            "Delhi",
+            "Amritsar"
+          ],
+          "correctAnswer": "Kolkata",
+          "hint": "Famous for puchka, kathi rolls, and mishti doi! 🌆"
+        },
+        {
+          "id": "ic2_19",
+          "question": "What is 'Lassi' made from?",
+          "options": [
+            "Coconut milk",
+            "Yogurt and water",
+            "Buttermilk and lime",
+            "Cow's milk and sugar"
+          ],
+          "correctAnswer": "Yogurt and water",
+          "hint": "It can be sweet or salty — very popular in Punjab! 🥛"
+        },
+        {
+          "id": "ic2_20",
+          "question": "Modak is a sweet especially associated with which deity?",
+          "options": [
+            "Lord Shiva",
+            "Lord Vishnu",
+            "Lord Ganesha",
+            "Goddess Durga"
+          ],
+          "correctAnswer": "Lord Ganesha",
+          "hint": "It's his favourite offering during Ganesh Chaturthi! 🐘"
+        }
+      ]
+    },
+    {
+      "id": "world_literature",
+      "name": "World Literature",
+      "description": "Great books, authors and literary classics",
+      "gradientResource": "purple_gradient",
+      "questions": [
+        {
+          "id": "wl_1",
+          "question": "Who wrote 'Pride and Prejudice'?",
+          "options": [
+            "Charlotte Brontë",
+            "Jane Austen",
+            "George Eliot",
+            "Emily Brontë"
+          ],
+          "correctAnswer": "Jane Austen",
+          "hint": "She wrote it in 1813 and its opening line is one of the most famous! 📖"
+        },
+        {
+          "id": "wl_2",
+          "question": "In which novel does the character Atticus Finch appear?",
+          "options": [
+            "Of Mice and Men",
+            "To Kill a Mockingbird",
+            "The Grapes of Wrath",
+            "Gone with the Wind"
+          ],
+          "correctAnswer": "To Kill a Mockingbird",
+          "hint": "Harper Lee wrote this Pulitzer Prize-winning novel in 1960! ⚖️"
+        },
+        {
+          "id": "wl_3",
+          "question": "Who wrote 'Don Quixote', often called the first modern novel?",
+          "options": [
+            "Dante Alighieri",
+            "Miguel de Cervantes",
+            "Fyodor Dostoevsky",
+            "Victor Hugo"
+          ],
+          "correctAnswer": "Miguel de Cervantes",
+          "hint": "This Spanish masterpiece features a man who thinks he's a knight! 🗡️"
+        },
+        {
+          "id": "wl_4",
+          "question": "Which Rabindranath Tagore work won him the Nobel Prize in 1913?",
+          "options": [
+            "Gitanjali",
+            "Gora",
+            "Ghare Baire",
+            "Chokher Bali"
+          ],
+          "correctAnswer": "Gitanjali",
+          "hint": "A collection of songs and poems meaning 'Song Offerings'! 🌸"
+        },
+        {
+          "id": "wl_5",
+          "question": "Who wrote 'Crime and Punishment'?",
+          "options": [
+            "Leo Tolstoy",
+            "Anton Chekhov",
+            "Fyodor Dostoevsky",
+            "Ivan Turgenev"
+          ],
+          "correctAnswer": "Fyodor Dostoevsky",
+          "hint": "This Russian novel follows student Raskolnikov's moral dilemma! 🔪"
+        },
+        {
+          "id": "wl_6",
+          "question": "The character Sherlock Holmes lives at which address?",
+          "options": [
+            "221A Baker Street",
+            "221B Baker Street",
+            "221C Baker Street",
+            "221D Baker Street"
+          ],
+          "correctAnswer": "221B Baker Street",
+          "hint": "Created by Sir Arthur Conan Doyle! 🔍"
+        },
+        {
+          "id": "wl_7",
+          "question": "Which country is Gabriel García Márquez from?",
+          "options": [
+            "Mexico",
+            "Argentina",
+            "Colombia",
+            "Brazil"
+          ],
+          "correctAnswer": "Colombia",
+          "hint": "He wrote 'One Hundred Years of Solitude' and won the Nobel Prize! 📚"
+        },
+        {
+          "id": "wl_8",
+          "question": "Who wrote 'The Alchemist'?",
+          "options": [
+            "Isabel Allende",
+            "Jorge Amado",
+            "Paulo Coelho",
+            "Mario Vargas Llosa"
+          ],
+          "correctAnswer": "Paulo Coelho",
+          "hint": "This Brazilian author wrote about following your Personal Legend! ✨"
+        },
+        {
+          "id": "wl_9",
+          "question": "In George Orwell's '1984', what is the name of the ruling party?",
+          "options": [
+            "The Brotherhood",
+            "The Party",
+            "The Inner Circle",
+            "The Thought Police"
+          ],
+          "correctAnswer": "The Party",
+          "hint": "Its slogan is 'War is Peace, Freedom is Slavery'! 👁️"
+        },
+        {
+          "id": "wl_10",
+          "question": "Who wrote the epic poem 'Iliad'?",
+          "options": [
+            "Sophocles",
+            "Homer",
+            "Aristotle",
+            "Virgil"
+          ],
+          "correctAnswer": "Homer",
+          "hint": "It tells the story of the Trojan War and the hero Achilles! ⚔️"
+        },
+        {
+          "id": "wl_11",
+          "question": "What is the name of the whale in 'Moby-Dick'?",
+          "options": [
+            "White Star",
+            "Leviathan",
+            "Moby-Dick",
+            "The White Whale"
+          ],
+          "correctAnswer": "Moby-Dick",
+          "hint": "Captain Ahab obsessively hunts this white sperm whale! 🐋"
+        },
+        {
+          "id": "wl_12",
+          "question": "Which Shakespeare play features the witches chanting 'Double, double toil and trouble'?",
+          "options": [
+            "Hamlet",
+            "King Lear",
+            "Macbeth",
+            "Othello"
+          ],
+          "correctAnswer": "Macbeth",
+          "hint": "This dark tragedy is set in Scotland! 🧙‍♀️"
+        },
+        {
+          "id": "wl_13",
+          "question": "Who wrote 'The Diary of a Young Girl'?",
+          "options": [
+            "Elie Wiesel",
+            "Primo Levi",
+            "Anne Frank",
+            "Corrie ten Boom"
+          ],
+          "correctAnswer": "Anne Frank",
+          "hint": "A Jewish teenager hid from Nazis in Amsterdam during WWII! 📒"
+        },
+        {
+          "id": "wl_14",
+          "question": "Which novel begins with: 'Call me Ishmael'?",
+          "options": [
+            "The Old Man and the Sea",
+            "Moby-Dick",
+            "Lord Jim",
+            "The Sea-Wolf"
+          ],
+          "correctAnswer": "Moby-Dick",
+          "hint": "Written by Herman Melville in 1851! 🐳"
+        },
+        {
+          "id": "wl_15",
+          "question": "In which Dickens novel does the character Ebenezer Scrooge appear?",
+          "options": [
+            "Oliver Twist",
+            "Great Expectations",
+            "A Christmas Carol",
+            "David Copperfield"
+          ],
+          "correctAnswer": "A Christmas Carol",
+          "hint": "Three ghosts visit him on Christmas Eve! 👻"
+        },
+        {
+          "id": "wl_16",
+          "question": "Who wrote 'The Kite Runner'?",
+          "options": [
+            "Salman Rushdie",
+            "Khaled Hosseini",
+            "V.S. Naipaul",
+            "Orhan Pamuk"
+          ],
+          "correctAnswer": "Khaled Hosseini",
+          "hint": "This Afghan-American author also wrote 'A Thousand Splendid Suns'! 🪁"
+        },
+        {
+          "id": "wl_17",
+          "question": "What language did Dante write 'The Divine Comedy' in?",
+          "options": [
+            "Latin",
+            "French",
+            "Italian",
+            "Greek"
+          ],
+          "correctAnswer": "Italian",
+          "hint": "He helped establish Italian as a literary language! 📜"
+        },
+        {
+          "id": "wl_18",
+          "question": "Which author created the character Hercule Poirot?",
+          "options": [
+            "Ngaio Marsh",
+            "Dorothy Sayers",
+            "Agatha Christie",
+            "Ruth Rendell"
+          ],
+          "correctAnswer": "Agatha Christie",
+          "hint": "This Belgian detective appeared in 33 novels! 🕵️"
+        },
+        {
+          "id": "wl_19",
+          "question": "Who wrote the play 'Waiting for Godot'?",
+          "options": [
+            "Harold Pinter",
+            "Samuel Beckett",
+            "Arthur Miller",
+            "Tennessee Williams"
+          ],
+          "correctAnswer": "Samuel Beckett",
+          "hint": "An Irish playwright who won the Nobel Prize in Literature! 🎭"
+        },
+        {
+          "id": "wl_20",
+          "question": "Which poet wrote 'If you can keep your head when all about you are losing theirs'?",
+          "options": [
+            "Lord Byron",
+            "John Keats",
+            "Rudyard Kipling",
+            "W.B. Yeats"
+          ],
+          "correctAnswer": "Rudyard Kipling",
+          "hint": "The opening line of his famous poem 'If—' (1910)! ✍️"
+        }
+      ]
+    },
+    {
+      "id": "human_body",
+      "name": "Human Body",
+      "description": "Fascinating facts about the human body",
+      "gradientResource": "pink_gradient",
+      "questions": [
+        {
+          "id": "hb_1",
+          "question": "How many chambers does the human heart have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctAnswer": "4",
+          "hint": "Two atria on top and two ventricles below! ❤️"
+        },
+        {
+          "id": "hb_2",
+          "question": "What is the largest organ of the human body?",
+          "options": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Lungs"
+          ],
+          "correctAnswer": "Skin",
+          "hint": "It covers your entire body and weighs about 3.5 kg! 🫱"
+        },
+        {
+          "id": "hb_3",
+          "question": "How many bones are in the adult human body?",
+          "options": [
+            "196",
+            "206",
+            "216",
+            "226"
+          ],
+          "correctAnswer": "206",
+          "hint": "Babies are born with about 270 — some fuse as you grow! 🦴"
+        },
+        {
+          "id": "hb_4",
+          "question": "Which is the longest bone in the human body?",
+          "options": [
+            "Humerus",
+            "Tibia",
+            "Spine",
+            "Femur"
+          ],
+          "correctAnswer": "Femur",
+          "hint": "It's the thigh bone and makes up a quarter of your height! 🦵"
+        },
+        {
+          "id": "hb_5",
+          "question": "What is the smallest bone in the human body?",
+          "options": [
+            "Stapes",
+            "Malleus",
+            "Incus",
+            "Patella"
+          ],
+          "correctAnswer": "Stapes",
+          "hint": "It's inside your ear and is only 3 mm long! 👂"
+        },
+        {
+          "id": "hb_6",
+          "question": "How many times does an average human heart beat per minute?",
+          "options": [
+            "50–60",
+            "60–100",
+            "100–120",
+            "40–50"
+          ],
+          "correctAnswer": "60–100",
+          "hint": "Athletes may have a much lower resting heart rate! 💓"
+        },
+        {
+          "id": "hb_7",
+          "question": "Which organ produces bile to help digest fats?",
+          "options": [
+            "Pancreas",
+            "Kidney",
+            "Liver",
+            "Spleen"
+          ],
+          "correctAnswer": "Liver",
+          "hint": "It's stored in the gallbladder and released when needed! 🫀"
+        },
+        {
+          "id": "hb_8",
+          "question": "What percentage of the human brain is water?",
+          "options": [
+            "60%",
+            "73%",
+            "80%",
+            "90%"
+          ],
+          "correctAnswer": "73%",
+          "hint": "Staying hydrated is crucial for brain function! 🧠"
+        },
+        {
+          "id": "hb_9",
+          "question": "Which blood cells carry oxygen throughout the body?",
+          "options": [
+            "White blood cells",
+            "Platelets",
+            "Red blood cells",
+            "Plasma"
+          ],
+          "correctAnswer": "Red blood cells",
+          "hint": "They contain hemoglobin which binds to oxygen! 🩸"
+        },
+        {
+          "id": "hb_10",
+          "question": "How long does it take food to travel through the small intestine?",
+          "options": [
+            "1–2 hours",
+            "2–6 hours",
+            "6–12 hours",
+            "24 hours"
+          ],
+          "correctAnswer": "2–6 hours",
+          "hint": "The small intestine is about 6 meters long! 🌀"
+        },
+        {
+          "id": "hb_11",
+          "question": "What is the medical term for the kneecap?",
+          "options": [
+            "Fibula",
+            "Tibia",
+            "Patella",
+            "Tarsus"
+          ],
+          "correctAnswer": "Patella",
+          "hint": "It protects your knee joint! 🦵"
+        },
+        {
+          "id": "hb_12",
+          "question": "Which part of the brain controls balance and coordination?",
+          "options": [
+            "Cerebrum",
+            "Medulla",
+            "Hypothalamus",
+            "Cerebellum"
+          ],
+          "correctAnswer": "Cerebellum",
+          "hint": "The name means 'little brain' in Latin! 🧠"
+        },
+        {
+          "id": "hb_13",
+          "question": "How many pairs of ribs does a human have?",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correctAnswer": "12",
+          "hint": "The bottom two pairs are called floating ribs! 🦴"
+        },
+        {
+          "id": "hb_14",
+          "question": "What is the normal body temperature in Celsius?",
+          "options": [
+            "35.5°C",
+            "36°C",
+            "37°C",
+            "38°C"
+          ],
+          "correctAnswer": "37°C",
+          "hint": "It's 98.6°F in Fahrenheit! 🌡️"
+        },
+        {
+          "id": "hb_15",
+          "question": "Which organ is responsible for filtering blood and producing urine?",
+          "options": [
+            "Liver",
+            "Spleen",
+            "Kidney",
+            "Pancreas"
+          ],
+          "correctAnswer": "Kidney",
+          "hint": "You have two of them, shaped like beans! 🫘"
+        },
+        {
+          "id": "hb_16",
+          "question": "What is the hardest substance in the human body?",
+          "options": [
+            "Bone",
+            "Enamel",
+            "Cartilage",
+            "Dentine"
+          ],
+          "correctAnswer": "Enamel",
+          "hint": "It covers and protects your teeth! 🦷"
+        },
+        {
+          "id": "hb_17",
+          "question": "How many muscles are used to take a single step?",
+          "options": [
+            "100",
+            "150",
+            "200",
+            "300"
+          ],
+          "correctAnswer": "200",
+          "hint": "Walking involves an incredibly complex chain of muscles! 🚶"
+        },
+        {
+          "id": "hb_18",
+          "question": "What is the approximate length of the small intestine?",
+          "options": [
+            "3 metres",
+            "6 metres",
+            "9 metres",
+            "12 metres"
+          ],
+          "correctAnswer": "6 metres",
+          "hint": "Despite its name, it's much longer than the large intestine! 🌀"
+        },
+        {
+          "id": "hb_19",
+          "question": "Which vitamin does the human body produce when exposed to sunlight?",
+          "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "correctAnswer": "Vitamin D",
+          "hint": "It's important for bone health and immune function! ☀️"
+        },
+        {
+          "id": "hb_20",
+          "question": "How many teeth does an adult human have (including wisdom teeth)?",
+          "options": [
+            "28",
+            "30",
+            "32",
+            "34"
+          ],
+          "correctAnswer": "32",
+          "hint": "Many people have their 4 wisdom teeth removed! 🦷"
+        }
+      ]
     }
+
+    
   ]
 }
